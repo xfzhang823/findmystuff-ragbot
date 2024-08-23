@@ -25,6 +25,7 @@ or creates a new one from documents.
 to get responses based on user input.
 """
 
+# Dependencies
 import os
 import sys
 import logging
@@ -41,8 +42,8 @@ from llama_index.core import (
 from llama_index.core.memory import ChatMemoryBuffer
 from llama_index.llms.openai import OpenAI
 from llama_index.embeddings.openai import OpenAIEmbedding
-from get_file_names import get_file_names
-from language_detector import LanguageDetector
+from utils.get_file_names import get_file_names
+from utils.language_detector import LanguageDetector
 
 # Ensure UTF-8 encoding throughout, logging
 os.environ["PYTHONIOENCODING"] = "utf-8"
@@ -58,12 +59,6 @@ embed_model = OpenAIEmbedding(
 )  # Removed max_length
 Settings.llm = llm
 Settings.embed_model = embed_model
-
-# Directories for persisted vectorstore and documents
-PERSIST_DIR = (
-    r"C:\github\xf_knowledge_RAG\vectorstore\yearbook_vectorstore_vecstoreindex"
-)
-DOC_DIR = r"C:\github\xf_knowledge_RAG\data\yearbook text data"
 
 
 def is_directory_empty(dir_path):
@@ -118,6 +113,11 @@ def chat_with_bot(user_input):
     return response.response
 
 
+# Directories for persisted vectorstore and documents
+PERSIST_DIR = os.path.join(os.getcwd(), "vectorstore")
+DOC_DIR = os.path.join(os.getcwd(), "data/yearbook text data")
+
+
 # Load or create the vectorstore index
 index = load_or_create_index()
 
@@ -133,7 +133,7 @@ chat_engine = index.as_chat_engine(
         "Here are the relevant documents for the context:\n"
         "{context_str}"
         "\nInstruction: Use the previous chat history, or the context above, to interact and help the user."
-    ),
+    ),  # customize the role depending on the type of documents you are trying to search
     verbose=False,
 )
 
