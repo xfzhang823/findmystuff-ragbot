@@ -1,0 +1,179 @@
+ 
+ 
+827 
+城市、农村和区域发展
+Explanatory Notes on Main Statistical Indicators 
+ 
+ 
+ 
+Production Capacity of Water Supply   refers to the 
+designed overall production capacity of water facilities, 
+covering the four segments of water collection, purification, 
+conveyance, and outflow through trunk pipelines. The capacity 
+is determined mainly on the weakest of the above-mentioned 
+four segments.  
+Length of Water Supply Pipelines  refers to the total 
+length of all municipal pipelines between the water pumps and 
+the user service pipes, excluding pipelines newly installed but 
+not in use yet, pipelines in the water factories, and pipelines in 
+the users’ buildings. 
+Total Volume of Urban Water Supply   refers to the 
+total volume of water supplied by water-works (units) during 
+the reference period, including both the effective water supply 
+and loss during the water supply. 
+Consumption of Water for Daily Use  includes 
+consumption of water for public service use and consumption 
+of water for household use. Consumption of water for public 
+service use refers to water consumption for public service in 
+the urban areas, including water consumption of administrative 
+institutions, military barracks, public facilities, wholesale and 
+retail, accommodation and catering industries and social 
+service industry, etc. Consumption of water for household use 
+refers to consumption of water for daily life of all households 
+in cities, including households of urban residents and farmers, 
+and public water supply stations. 
+Consumption of Water for Production Use  refers to 
+water consumption in the process of production and operation 
+by production and operation units of agriculture, forestry, 
+animal husbandry, fisheries, manufacturing, construction, 
+transport, etc. in urban areas. 
+Coverage Rate of Urban Population with Access to 
+Tap Water refers to the ratio of the urban population with 
+access to tap water to the total urban population at the end of 
+reference period. The formula is:  
+%
+100
+population
+Urban 
+ water
+ tap
+ to
+access
+ with 
+population
+Urban 
+ water
+ tap
+ to
+access
+with 
+ 
+population
+urban 
+ 
+of
+ 
+Coverage
+
+
+ 
+Production Capacity of Gaswork Gas  refers to the 
+overall production capacity of the urban gasworks in gas 
+generation, purification and delivery at the end of the reference 
+period, excluding capacity of the reserved facilities. In general, 
+it is determined by the designed capacity, and when actual 
+production capacity is larger than the designed capacity, the 
+capacity is determined by the actual measurement on the 
+weakest segment in the production, purification and delivery.  
+Length of Gas Pipelines  refers to the total length of 
+pipelines in use between the outlet of the compressor of 
+gas-work or outlet of gas stations and the leading pipe of users, 
+excluding pipelines newly installed but not in use yet, pipelines 
+within gasworks, delivery stations, LPG storage stations, 
+refilling stations, gas-mixing stations and supply stations, and 
+pipelines in the users’ buildings. 
+Volume of Gas Supply   refers to the total volume of gas 
+provided to users by gas-producing enterprises (units) during the 
+reporting period, including the volume sold and the volume lost.  
+Coverage Rate of Urban Population with Access to 
+Gas   refers to the ratio of the urban population with access to 
+gas to the total urban population at the end of the reference 
+period. Gas here includes gaswork gas, natural gas and 
+liquefied petroleum gas. The formula is: 
+%
+100
+population
+Urban 
+gas
+ 
+ to
+access
+with 
+ 
+population
+Urban 
+gas
+ 
+ to
+access
+ with 
+population
+urban  
+ 
+of
+ 
+rate
+ 
+Coverage
+
+
+ 
+Heating Capacity in Urban Areas refers to the designed 
+capacity of heating enterprises (units) in supplying heating 
+energy to urban users during the reference period. 
+Quantity of Heat Supplied in Urban Areas  refers to 
+the total quantity of heat from steam and hot water supplied to 
+urban users by heating enterprises (units) during the reference 
+period. 
+Length of Urban Heating Pipelines  refers to the total 
+length of steam or hot water pipelines for sources of heat to the 
+leading pipelines of the buildings of the users, excluding 
+internal pipelines in heat generating enterprises. 
+Length of Paved Roads  refers to the length of roads 
+with paved surface, including bridges and tunnels connected 
+with roads.  Length of the roads is measured by the central 
+lines.  
+Urban Bridges  refer to bridges built to cross over 
+natural or man-made barriers, including bridges over rivers, 
+overpasses for traffic and for pedestrians, underpasses for 
+pedestrians, etc.  
+Length of Urban Sewage Pipes  refers to the total 
+length of municipal general drainage, trunks, branch and 
+inspection wells, connection wells, inlets and outlets, etc. 
+Daily Disposal Capacity of Urban Sewage  refers to the 
+designed 24-hour capacity of sewage disposal by the sewage 
+treatment works or facilities. 
+Area of Green Space  refers to the total area occupied 
+for green projects at the end of the reference period, including 
+public recreational green space, protection green land, land for 
+squares, green land attached to institutions, and other green 
+areas. 
+Public Recreational Green Space  refers to green areas 
+open to the public for amusement and rest with the facilities of 
+amusement, rest and services. Its function also includes 
+improving ecology, beautifying landscape, education and 
+preventing and reducing disaster. 
+Area under Cleaning Program refers to the area which 
+ 
+ 
+828 
+Urban, Rural and Regional Development 
+are regularly cleaned at urban roads and public places 
+(including urban roadways, pedestrian walkways, vehical 
+tunnels, pedestrian underpasses, underground railway stations, 
+lifted roads, pedestrians walk bridges, overpasses, plazas, 
+parking lots and other facilities), at the end of the reference 
+period,. If the cleaning is conducted at a location several times 
+a day, the area that is cleaned with the largest space will be 
+taken. 
+Vehicles and Facilities Dedicated to Urban Cleaning 
+and Environmental Sanitation  refer to vehicles and 
+facilities dedicated for use in the operation, management and 
+monitoring of environmental sanitation work. They include 
+vehicles for road cleaning, washing, showering, ice removal, 
+disposal of garbage and human wastes, sanitation monitoring 
+and related activities. 
+Public Buses and Trolley Buses per 10000 Population  
+refers to the number of public buses and trolley buses, 
+calculated on basis of per 10000 urban population.  
+ 

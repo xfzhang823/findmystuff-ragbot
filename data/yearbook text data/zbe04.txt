@@ -1,0 +1,173 @@
+ 
+ 
+135 
+就业和工资 
+Explanatory Notes on Main Statistical Indicators 
+ 
+ 
+ 
+Labour Force  refers to the population aged 16 and over 
+who are capable of working, are participating in or willing to 
+participate in economic activities, including employed persons 
+and unemployed persons. 
+Employed Persons  refer to persons, aged 16 and over, 
+who performed some work for compensation or business gains 
+for one hour or more during the reference period; or persons 
+who do not work for the reasons of study or on holiday; or 
+persons who are temporarily absent from a job for 
+disorganization or suspension of work, recession, etc. 
+Persons Employed in Various Units  refer to the total 
+number of employees who work at his unit on the last day and 
+obtain wages or other forms of payment at the end of the 
+reporting period. This indicator is a kind of time point index 
+and it equals to the sum of the number of employed staff and 
+workers, labor dispatch personnel and other employed persons, 
+excluding those who have terminated labor contracts with 
+working unit on or before the last day of the reporting period. 
+Employed persons do not include: 
+1)persons who have left their working units while keeping 
+their labour contract (employment relation) unchanged and 
+receiving regular alimony; 
+2)all kinds of enrolled students who do internship in 
+various units; 
+3)persons employed due to labor outsourcing, for example, 
+persons employed in the organizational system of construction 
+industry. 
+Employed Staff and Workers  refer to persons who 
+signed labor contracts with working units and working units 
+would pay wages, social insurance and housing funds for them.  
+Persons who have their work posts but are temporarily absent 
+from work for reasons of study or on sick, injury or maternal 
+leave and still receive wages from their working units are also 
+included. Employed staff and workers also include: 
+1)Persons who should have signed the labor contracts but 
+not (like people with rural household registration); 
+2)Employees on probation; 
+3)Employees beyond the staffing quota, for example, 
+temporary employees; 
+4)Employees who are sent to other working units but still 
+obtain wages from their original units (situations like 
+on-the-job placement, expatriated assignment, etc. ) 
+Total Wage Bill  It is revised according to the “Provision 
+of Composition of Total Wages” (Order No.1 by National 
+Bureau of Statistics on January, 1st, ,1990), total wage bill 
+refers to the total remuneration payment to all employed 
+persons in various units during the reporting period (by quarter 
+or by year), including hourly-paid wages, piece-rate wages, 
+bonuses, allowance and subsidies, overtime wages and wages 
+paid under special circumstances. It equals to the sum of total 
+wages of employed staff and workers, dispatch labors and other 
+employed persons.  
+Total wage bill is pre-tax wages, including the room 
+charges, utility bills, housing funds and social insurance paid or 
+withheld by employee’s units.  
+Total wage bill, whether or not included in cost, whether 
+or not paid in money or in kind, shall be included in the 
+calculation of total wage.  
+Average Wage  refers to the average per capita wage 
+during a certain period of time for employed persons. It shows 
+the general level of wage income during a certain period of 
+time and it’s one major indicator to reflect the wage level.  It 
+is calculated as follows: 
+ time
+reference
+at 
+  
+employed
+ 
+persons
+ 
+of
+number 
+ 
+Average
+ time
+reference
+at 
+ 
+persons
+employed
+ 
+of
+ 
+bill
+ 
+ wage
+Total
+ 
+ 
+ Wage
+Average
+
+ 
+Average Nominal Wage Indices  refers to the ratio of 
+average wage of employed persons at the reporting period to 
+that at the base period, which reflects the change of money 
+wage of employed persons at the different period. It is 
+calculated as follows: 
+Average wage of employed
+Average money
+persons at reference time
+100%
+Average wage of persons
+wage indices
+employeds at base period
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Average Real Wage Indices  average real wage of 
+employed persons refers to the average wage of employed 
+persons after removing the effects of the price changes and 
+average real wage indices of employed persons refers to the 
+change of real wage, which reflects the relative increasing or 
+decreasing level of real wage of employed persons ,which is 
+calculated as follows: 
+Average wage indices of employed 
+Average real 
+persons at the reference time
+100%
+City consumer price 
+wage indices
+indices at reference time
+
+
+ 
+Registered Unemployed Persons in Urban Areas  refer 
+to the persons residing in urban areas at certain working ages 
+(16 years old to the age of enjoying primary endowment 
+insurance benefits according to the law), who are capable of 
+working, unemployed and willing to work, and have been 
+registered at the public employment and talent service agencies 
+to apply for a job. 
+Registered Unemployment Rate in Urban Areas  
+refers to the ratio of the actual number of registered 
+unemployed persons at the end of the period to the sum of the 
+ 
+ 
+136 
+Employment and Wages 
+total number of employees at the end of the period and the 
+actual number of registered unemployed persons at the end of 
+the period. 
+Surveyed Unemployment Rate in Urban Areas  refers 
+to the ratio of the number of the unemployed persons in urban 
+areas to the sum of the number of the employed persons and the 
+unemployed persons in urban areas, calculated on the basis of 
+the Labour Force Survey. 
+ 

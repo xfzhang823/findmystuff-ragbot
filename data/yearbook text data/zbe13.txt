@@ -1,0 +1,176 @@
+ 
+ 
+447 
+工  业 
+Explanatory Notes on Main Statistical Indicators 
+ 
+ 
+ 
+Industry  refers to the material production sector which 
+is engaged in the extraction of natural resources and processing 
+and reprocessing of minerals and agricultural products, 
+including (1) extraction of natural resources, such as mining, 
+salt production (but not including hunting and fishing); (2) 
+processing and reprocessing of farm and sideline produces, 
+such as grain and oil processing, food processing, silk reeling, 
+spinning and weaving and leather making; (3) processing and 
+reprocessing of mineral products, such as steel making, iron 
+smelting, chemicals manufacturing, petroleum processing, 
+machine building, timber processing, and production and 
+supply of electricity, gas and water; (4) repairing and 
+renovating of industrial products such as the machinery. 
+In industrial surveys, the units of enquiry are industrial 
+corporate units. 
+Industrial corporate units refer to corporate units engaging 
+in industrial production and operation activities, which meet the 
+following requirements: (1) They are established legally, 
+having their own names, organizations, location, and are able to 
+take civil liability independently; (2) They possess (or are 
+authorized to use) assets independently, assume liabilities and 
+are entitled to sign contracts with other units; (3) They have 
+accounts including the balance sheets or can compile the 
+accounts according to the need. 
+State-holding Enterprises cover the original state-owned 
+enterprises and state-holding enterprises. They are classified 
+according to the actual investment made by the contributors of 
+state-owned part in the paid-in capital of the enterprises, or the 
+degree of control or dominance of the contributor on the assets 
+of the enterprises. The following cases are regarded as 
+state-holding: (1) Absolute state-holding in which the 
+contributors of state-owned parts possess more than 50% of all 
+the paid-in capital (stocks) of the enterprises; (2) Relative 
+state-holding in which the contributors of state-owned parts 
+possess no more than 50% of the paid-in capital (stocks) of the 
+enterprises, but more than that of any other contributors; or 
+agreed state-holding in which the contributors of state-owned 
+parts possess no more than other contributors but have actual 
+control over the enterprises according to agreements; (3) In 
+case both contributors possess 50% and it is not clear which 
+one is in absolute holding position, the enterprise is regarded as 
+state-holding enterprise if one of the contributor has 
+state-owned elements.  
+For explanation of types of registration covered in this 
+chapter, please refer to Chapter 1 on General Survey. 
+Total Assets  refer to all resources that are owned or 
+controlled 
+by 
+enterprises 
+through 
+previous 
+trades 
+or 
+transactions, with expectation of making economic profits to 
+enterprises. Included are all assets owned by enterprises such as 
+land, office buildings, factories, machines, vehicles, inventories 
+and other physical assets as well as cash, deposits, accounts 
+receivable, prepayments and other financial assets. Classified 
+by the degree of liquidity, total assets include current assets and 
+non-current assets. Current assets can be classified into 
+monetary capital, trading financial assets, notes receivable, 
+accounts receivable, advanced payments, other receivables and 
+inventories. Non-current assets can be divided into long-term 
+equity investment, fixed assets, intangible assets and other 
+non-current assets. Data on this indicator can be obtained from 
+the year-end figures of total assets in the Balance Sheet of 
+accounting records. 
+Current Assets  refer to the assets that meet one of the 
+following requirements: (1) expected to be cashed, sold or used 
+in a normal operation cycle, mainly including inventory and 
+accounts receivable; (2) owned for transaction purpose mainly; 
+(3) expected to be cashed within one year (including one year) 
+from the day of the Balance Sheet; (4) unlimited cash or cash 
+equivalents that can be exchanged with other assets or capable 
+of settling debts during one year since the day of the Balance 
+Sheet. Included are monetary capital, notes receivable, accounts 
+receivable and inventories. Data on this indicator can be 
+obtained from the year-end figures of total current assets in the 
+Balance Sheet of accounting records. 
+Total Liabilities  refer to payable liabilities of 
+enterprises that are accumulated from earlier transactions with 
+expectation of leaking out of economic profits. Included are 
+debts that enterprises are responsible for repaying such as bank 
+loans, borrowings, accounts payable, wages payable, employee 
+benefits payable, taxes payable, etc. In terms of payment, it can 
+be divided into liquid liabilities and long-term liabilities. Data 
+on this indicator can be obtained from the year-end figures of 
+total liabilities in the Balance Sheet of accounting records. 
+Accounts Receivable  refers to creditor's rights through 
+business activities such as selling goods and providing labor. It 
+comes from the ending balance of accounts receivable in 
+balance sheet. 
+Inventories  refers to finished goods or commodities 
+held in preparation for sale in enterprises’ daily activities, 
+goods in the production process, material or the physical 
+materials consumed in the production process or in the process 
+of providing labor, usually include raw materials, goods in the 
+production process, semi-finished products, finished products, 
+goods and materials in flow. It comes from the ending balance 
+of inventory in balance sheet. 
+Finished Goods  refers to the products that the 
+enterprises have completed all of the production process and 
+accepted and put in storage, and can be sent to the ordering 
+units in accordance with the contract stipulations, or can be on 
+sale. If "finished goods" or "goods in stock" are listed in the 
+Balance Sheet, it is the ending balance; or, it is calculated 
+ 
+ 
+448 
+Industry 
+according to the debit balance of the accounting "finished 
+goods" or "goods in stock" account, minus the inventory falling 
+price reserves for "finished products" or "goods in stock". 
+Business Revenue refers to the inflow of economic 
+benefits through production and operation activities of 
+enterprises, such as selling commodities, providing labor 
+services and transferring the right to use of assets.  Business 
+revenue includes "revenue from principal business" and " 
+revenue from other business". It comes from current year’s 
+cumulative report of "business revenue" items from the 
+"income statement". 
+Business Cost  refers to the actual costs incurred by the 
+enterprises in such production and operation activities as 
+selling commodities, providing labor services and transferring 
+the right to use of assets. It includes various expenditures 
+incurred by enterprises (units) in their daily activities of selling 
+goods and providing labour services during the reporting period. 
+It includes "cost of principal business" and "cost of other 
+business". It comes from current year’s cumulative report of 
+"operating cost" items from the "income statement". 
+Selling Expenses  refer to the cost during the sale of 
+goods and materials, providing labour services, including 
+insurance, packing, exhibition fees and advertising fees, 
+merchandise maintenance costs, expected product quality 
+guarantee loss, transportation fees, handling fees, and operating 
+expenses for the sales of the company's products, such as 
+employee compensation, business expenses, depreciation costs 
+for dedicated sales offices (including sales outlets, after-sales 
+service outlets, etc.). 
+Management Expenses  refer to the expenses for the 
+organization and 
+management 
+of enterprise 
+operation, 
+including the start-up costs during the construction of 
+enterprises, funds occurred during enterprises operation by 
+board of directors and executive management in the enterprise 
+management, and other costs to be paid by enterprises. It comes 
+from current year’s cumulative amount of management cost in 
+income statement. 
+Financial Expenses  refer to cost of fund-raising for 
+enterprises to raise funds for production and operation, 
+including interest payments (a reduction in interest income), 
+exchange loss (less exchange gains) and related fees during the 
+period of production. It comes from current year’s cumulative 
+amount of financial expenses in income statement. 
+Total Profits  refer to the operational results in a certain 
+accounting period, and it is the balance of various incomes 
+minus various spendings in the course of operation, reflecting 
+the total profits and losses of enterprises in reference period. 
+Data are obtained from current year’s cumulative amount of 
+total profits in the profit statement of the accounting record of 
+enterprise. 
+Annual Average Employees  refer to the number of 
+persons engaged in the production and operation activities of 
+enterprises in the reporting period, which are actually employed 
+by the enterprises. 
+ 

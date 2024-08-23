@@ -1,0 +1,134 @@
+ 
+ 
+205 
+人民生活 
+Explanatory Notes on Main Statistical Indicators 
+ 
+ 
+ 
+In the fourth quarter of 2012, the NBS launched its reform 
+on the household survey programme, to develop an integrated 
+survey, instead of two separate urban and rural household 
+surveys. The reform aims at regulating the division of urban 
+and rural areas, integrating the concepts, classifications and 
+standards, implementing the integrated household survey, and 
+collecting household data in the whole country thereafter. Data 
+from 1978 to 2012 are estimated based on the historical data of 
+Urban Household Survey and Rural Household Survey 
+according to the comparable definition and coverage of main 
+income and consumption indicators of Household Survey on 
+Income and Expenditure and Living Conditions. 
+I. Disposable Income of Residents 
+Disposable Income of Residents refers to the income of 
+residents for purpose of final expenditure and savings. It 
+includes income both in cash and in kind. By sources of income, 
+disposable income includes four categories: income from 
+wages and salaries, net business income, net income from 
+properties and net income from transfer. 
+Income 
+from 
+Wages 
+and 
+Salaries 
+ 
+refers 
+to 
+remuneration and benefits of all kinds of employed persons, 
+including those employed by other units or individuals, 
+freelance workers, part-time jobs, and sporadic workers. 
+Net Business Income  refers to net income earned by 
+households and their members engaged in production and 
+business activities. It refers to the net income of operating 
+revenue minus operating costs, depreciation of productive fixed 
+assets, and production tax. The formula is: 
+Net business income = operating revenue-operating costs 
+-depreciation of productive fixed assets-production tax 
+Net Income from Properties  refers to the net income 
+received as returns by households or members through lending 
+of their financial assets, non-financial assets such as housing, to 
+other institutions, households or individuals, minus relevant 
+costs. Net income from properties includes net income of 
+interest, bonus income, net income of saving insurance, net 
+income from transferring management right of contract land, 
+income from lending of housing, income from lending other 
+assets, net converted rents of self-owned housing. Net income 
+from properties do not include premium of transferring 
+ownership of assets. 
+Net Income from Transfer  The formula is: 
+Net income from transfer = income from transfer - 
+expenditure from transfer 
+Income from Transfer  refers to the regular transfer 
+received from governments, institutions, social organizations to 
+households and between households. It includes old-age and 
+retirement pension, regular donation and compensation, 
+reimbursement of medical fees, supporting income between 
+households, income from non-resident members of households, 
+etc. Income from transfer do not include gifts in kinds between 
+households. 
+Expenditure from Transfer  refers to regular or 
+obligatory transfer paid to government, institutions, households 
+or individuals. It includes tax payment, expenditure on all kinds 
+of social security, supporting expenditure, regular donation, 
+compensation payment and other regular transfer expenditure. 
+According to Household Survey on Income and 
+Expenditure and Living Conditions, main changes of 
+population coverage of per capita disposable income of urban 
+and rural residents includes: migrant workers residing in urban 
+areas are included in the denominator when calculating per 
+capita disposable income of urban residents, and not included 
+in denominator when calculating per capita disposable income 
+of rural residents; students studying in universities or colleges 
+in other places who are supported by the households are 
+regarded as permanent residents of the households. 
+II. Consumption Expenditure of Residents 
+Consumption Expenditure of Residents refers to all 
+expenditure of residents for living expenditure to satisfy family 
+daily living. It includes expenditure in cash and in kind. It 
+includes eight categories: food, tobacco and liquor; clothing 
+and footwear; housing; household equipments, furnishings and 
+services; transport and communications; education, culture and 
+recreation; health care and medical services, and miscellaneous 
+goods and services. 
+Food, Tobacco and Liquor  refers to expenditure for 
+food, tobacco and liquor of all kinds. 
+Clothing and Footwear  refers to expenditure related to 
+clothing, including clothes, clothing materials, footwear, other 
+clothing and accessories, processing services related to 
+clothing. 
+Housing  refers to expenditure related to housing, 
+including rents, water, electricity, fuel, property management, 
+as well as imputed rent on owner-occupied dwellings. 
+Household Equipments, Furnishings and Services  
+refers to expenditure of households and individuals on 
+equipments, furnishings and articles for living purpose and on 
+household services. It includes furniture and interior decoration, 
+home appliances, home textiles, household miscellaneous daily 
+articles, personal articles, and household services. 
+Transport and Communications  refers to expenditure 
+on transport and communication and related services, 
+maintenance and repairs, and vehicle insurance. 
+Education, Culture and Recreation  refers to expenditure 
+on educational, cultural and recreational activities. 
+Health Care and Medical Services  refers to expenditure 
+on drugs, supplies and services of medical and health care. It 
+includes medical appliances and drugs, and medical services. 
+Miscellaneous 
+Goods 
+and 
+Services 
+ 
+refers 
+to 
+expenditure on all other articles and services that can not 
+classified into the above categories. 
+Service 
+Consumption 
+ 
+refers 
+to 
+consumption 
+expenditure of households for various living services, including 
+catering services, clothing and footwear processing services, 
+housing services, household services, transportation and 
+communication services, education, culture and entertainment 
+services, medical services and other services. 

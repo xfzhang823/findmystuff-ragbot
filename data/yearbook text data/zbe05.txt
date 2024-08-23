@@ -1,0 +1,39 @@
+ 
+ 
+164 
+Prices  
+Explanatory Notes on Main Statistical Indicators 
+ 
+ 
+ 
+ 
+Consumer Price Indices  are relative figures reflecting the 
+trend and degree of changes in prices of consumer goods and 
+services purchased by urban and rural households during a given 
+period. 
+Retail Price Indices  are relative figures reflecting the 
+trend and degree of changes in retail prices of commodities 
+during a given period.  
+Producer Prices Indices for Farm Products  are relative 
+figures reflecting the trend and degree of changes in producers’ 
+prices received by farmers when they sell farm products during 
+a given period. These indices depict the change in the level and 
+structure of producer prices for farm products of the country 
+and meet the needs of agricultural statistics and national 
+accounts statistics. The producer price index for a given 
+product is calculated as the geometrical mean of individual 
+indices for all surveyed units which sell such products, and the 
+indices for a product category is obtained as the weighted mean 
+of price indices for all products in the category. Method for 
+calculating accumulative quarterly indices is the same as for 
+calculating the distinctive quarterly indices. 
+Producer Price Indices for Industrial Products  are 
+relative figures reflecting the trend and degree of changes in 
+general ex-factory prices of all manufactured goods for first sale 
+during a given period.  
+Purchasing Price Indices for Industrial Producers  are 
+relative figures reflecting changes in the level and degree of 
+purchasing prices such as intermediate input such as raw 
+materials, fuels and power. 
+ 
+ 

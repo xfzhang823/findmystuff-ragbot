@@ -1,0 +1,85 @@
+ 
+ 
+624 
+Real Estate 
+Explanatory Notes on Main Statistical Indicators 
+ 
+ 
+ 
+Area of Land Pending for Development  refers to the 
+area of land with its use rights already approved by authorities 
+and obtained by real estate development enterprises but the 
+land development not yet started. 
+Area of Land Purchased in the Year  refers to the area 
+of land with its use rights already obtained in the year by real 
+estate development enterprises. 
+Transaction Value of Land in the Year  refers to the 
+final value of transactions made by real estate development 
+enterprises to obtain the land use rights in the year. At the 
+primary land market, it refers to the value of final assignment, 
+or the value reached and transferred as a result of bidding, 
+auction or listing procedures. In the secondary land market, it 
+refers to the final value on contracts with land transfer, lease 
+and mortgage. The transaction value of land and the land space 
+purchased have the same scope. 
+Value of Land Purchased  refers to the payment made 
+by real estate development enterprises for land use rights. The 
+actual payment of land purchased is recorded. If the payment is 
+by installments, it should be recorded when occurring. If the 
+project is developed by stages, the value of land purchased only 
+related to the current project. The value of land purchased in 
+the early stage should be recorded after the project is included 
+in the statistics. 
+Total Investment Planned  refers to the total investment 
+required for the completion of the activities according to the 
+planned design or budget for the project under construction by 
+real estate development enterprises. 
+Accumulative Investment Completed from Starting of 
+Construction  refers to all the investment accomplished by 
+real estate development enterprises in the construction of 
+buildings or the development of land from the beginning of 
+project to the end of the year. 
+Investment in Real Estate Development  refers to the 
+investment made by real estate development enterprises in the 
+construction of buildings, development of land, nonprofit 
+buildings and value of land purchased. 
+Total Actual Funds in Place in the Year  refers to the 
+total amount available for real estate development regardless of 
+kinds of currencies. It includes domestic loans, foreign 
+investment, self-raised funds, deposit and advance payment, 
+personal mortgage loan and others. 
+Floor Space of Buildings under Construction  refers to 
+the total space area of the buildings under construction in the 
+year by real estate development enterprises. It includes 
+buildings started in the year, continued from the previous year, 
+suspended in earlier years but restarted in the year, completed 
+in the year, and buildings under construction but suspended in 
+the year. The floor space of a multi-storied building should be 
+the sum of floor space of all the stories. 
+Floor Space of Buildings Started in the Year  refers to 
+the total floor space area of the buildings started in the year by 
+real estate development enterprises. It excludes the buildings 
+started in previous years and continued in the year, and the 
+buildings suspended in previous years but restarted in the year. 
+The start of a construction is defined by the date of ground 
+breaking or pile driving. The floor space of the buildings 
+started in the year includes that of the entire building. 
+Floor Space of Buildings Completed  refers to the total 
+floor space area of each building completed in the year by real 
+estate development enterprises, which meet the requirements as 
+designed, up to the standard for being resided in and put into 
+use, has been checked and accepted by departments concerned 
+as qualified or up to the standard of buildings completed and 
+can be handed over for putting into use. 
+Floor Space of Commercial Buildings Sold refers to 
+total contracted area of commercial buildings (i.e. area of floor 
+space as designated in the formal contracts signed by both sides) 
+sold by real estate development enterprises in the year.  
+Sales of Commercial Buildings  refers to the total 
+contracted value (i.e. value of sales/purchase for selling/ 
+purchase of commercial buildings as designated in the contract 
+signed by both sides) received from the sales of the buildings 
+by real estate development enterprises in the year. This 
+indicator has the same statistical coverage as the area of 
+commercial buildings sold. 
+ 

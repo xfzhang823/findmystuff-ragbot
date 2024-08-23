@@ -1,0 +1,192 @@
+ 
+ 
+51 
+人  口 
+Explanatory Notes on Main Statistical Indicators 
+ 
+ 
+ 
+Total Population  refers to the total number of people 
+alive at a certain point of time within a given area. 
+The annual statistics on total population is taken at 
+midnight, the 3lst of December, not including residents in Hong 
+Kong SAR, Macao SAR and Taiwan and Chinese national 
+residing abroad. 
+Urban Population and Rural Population  Urban 
+population refers to all people residing in cities and towns, 
+while rural population refers to population other than urban 
+population. 
+Birth Rate (or Crude Birth Rate)  refers to the ratio of 
+the number of births to the average population (or mid-year 
+population) during a certain period of time (usually a year), 
+expressed in ‰. Birth rate in the chapter refers to annual birth 
+rate. The following formula is used: 
+population
+  
+average
+  
+Annual
+births
+ 
+of
+Number 
+rate
+Birth 
+
+×1000‰ 
+Number of births in the formula refers to live births, i.e. 
+when a baby has breathed or showed any vital phenomena 
+regardless of the length of pregnancy. 
+Annual average population is the average of the number of 
+population at the beginning of the year and that at the end of 
+the year. Sometimes it is substituted by the mid-year 
+population. 
+Death Rate (or Crude Death Rate) refers to the ratio of 
+the number of deaths to the average population (or mid-year 
+population) during a certain period of time (usually a year), 
+expressed in ‰. Death rate in the chapter refers to annual 
+death rate. The following formula is used: 
+‰
+1000
+population
+ 
+average
+ 
+Annual
+deaths
+ 
+of
+Number 
+rate
+Death 
+
+
+ 
+Natural Growth Rate of Population  refers to the ratio 
+of natural increase in population (number of births minus 
+number of deaths) in a certain period of time (usually a year) to 
+the average population (or mid-year population) of the same 
+period, expressed in ‰. The following formula is applied: 
+population
+  
+average
+  
+Annual
+deaths
+ 
+of
+number 
+-
+births
+ 
+of
+Number 
+population
+ 
+of
+ 
+rate
+growth 
+ 
+Natural
+
+ 
+             ×1000‰ 
+Natural growth rate of population = Birth rate-death rate 
+Gross Dependency Ratio also called gross dependency 
+coefficient, refers to the ratio of non-working-age population to 
+the working-age population, express in %. Describing in 
+general the number of non-working-age population that every 
+100 people at working ages will take care of. The gross 
+dependency ratio is calculated with the following formula: 
+%
+100
+64
+~
+15
+65
+14
+~
+0
+
+
+
+
+P
+P
+P
+GDR
+ 
+Where: GDR is the gross dependency ratio, 
+P0-14  is the population of children aged 0-14, 
+P65+  is the elderly population aged 65 and over, and 
+P15-64 is the working-age population aged 15-64. 
+Elderly Dependency Ratio  also called elderly 
+dependency coefficient, refers to the ratio of the elderly 
+population to the working-age population, express in %. It 
+describes the number of the elderly population that every 100 
+people at working ages will take care of. Elderly dependency 
+ratio is one of the indicators reflecting the social implication of 
+population aging from the economic perspective. The elderly 
+dependency ratio is calculated with the following formula: 
+%
+100
+64
+~
+15
+65
+
+
+
+P
+P
+EDR
+ 
+Where: EDR is the elderly dependency ratio, 
+P65+  is the elderly population aged 65 and over, and 
+P15-64 is the working-age population aged 15-64. 
+Children Dependency Ratio also called children 
+dependency coefficient, refers to the ratio of the children 
+population to the working-age population, express in %. It 
+describes the number of children population that every 100 
+people at working ages will take care of. The children 
+dependency ratio is calculated with the following formula: 
+%
+100
+64
+~
+15
+14
+~
+0
+
+P
+P
+CDR
+ 
+Where: CDR is the children dependency ratio, 
+P0-14  is the children population aged 0-14, and 
+P15-64 is the working-age population aged 15-64. 
+Population of Residence-registration Inconsistency  
+refer to those who have been residing in places other than the 
+registered streets or towns and been away from their 
+registration areas for over half a year. 
+Migrant 
+Population 
+refer 
+to 
+the 
+population 
+of 
+residence-registration inconsistency excluding those intra-city 
+ones. 
+Population 
+of 
+intra-city 
+residence-registration 
+inconsistency refer to those whose residing streets or towns and 
+registered ones are inconsistent but still in the same 
+municipality or prefecture city either the two are in the same 
+district or different ones. 
+ 
+ 

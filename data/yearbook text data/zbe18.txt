@@ -1,0 +1,93 @@
+ 
+ 
+602 
+Financial Intermediation 
+Explanatory Notes on Main Statistical Indicators 
+ 
+ 
+ 
+Total Deposits  are the main items of financial sources 
+of financial institutions, which include deposits of households, 
+deposits of non-financial enterprises, deposits of government 
+departments & organizations, fiscal deposits, deposits of 
+non-banking financial institutions and overseas deposits. 
+Total Loans  are the main items of financial uses of 
+financial institutions, which include loans to households, loans 
+to non-financial enterprises and government departments & 
+organizations, loans to non-banking financial institutions and 
+overseas loans. 
+Insurance Companies  refer to commercial insurance 
+companies of various forms registered by law and established 
+in China with the approval of insurance regulatory agencies. 
+Amount Insured  refers to the maximum that the 
+insurant will get for the claim of the case insured.  
+Premium  is the fee paid by the insurant to the insurer to 
+obtain the obligation of compensation from the insurance 
+within the agreed terms. 
+Settled Claim  is the compensation paid by the insurer to 
+the insurant in accordance with the insurance contract. 
+Payment  includes payment for death, injury or medical 
+treatment and payment at maturity. Payment for death, injury or 
+medical treatment refers to the money paid to the insurant (or 
+the beneficiary) in accordance with the life or health insurance 
+contract when the insurant encounters accidents within the 
+insured period covered in the contract. Payment at maturity 
+refers to the payment to the insurant in accordance with the life 
+insurance contract at the end of the insured period. 
+Aggregate Financing to the Real Economy (Flow) refers 
+to the total volume of financing provided by the financial 
+system to the real economy over a period of time. It includes: 
+RMB loans, foreign currency-denominated loans (RMB 
+equivalent), credit loans, entrusted loans, undiscounted 
+banker’s acceptances, corporate bonds, government bonds, 
+domestic equity financing of non-financial enterprises, 
+investment real estate, premium of insurance, etc. 
+Aggregate Financing to the Real Economy (Stock) 
+refers to the total volume of financing provided by the financial 
+system to the real economy at the end of a period (at the end of 
+month, quarter or year). It includes: RMB loans, foreign 
+currency-denominated loans (RMB equivalent), credit loans, 
+entrusted loans, undiscounted banker’s acceptances, corporate 
+bonds, government bonds, domestic equity financing of 
+non-financial enterprises, investment real estate, etc. 
+Number of Domestic Listed Companies  refers to the 
+number of limited companies whose stocks issued are listed on 
+the Shanghai or Shenzhen exchanges at the end of the statistical 
+period. A listed company that issues both A and B shares at the 
+same time are counted as one company by the date of listing. 
+Total Issued Capital  also known as total stock of listed 
+companies, refers to the total number of shares issued by 
+domestic listed companies at the end of the statistical period, 
+including A share capital, B share capital and other 
+non-tradable domestic equity. 
+Total Market Capitalization  refers to the total stock 
+value according to the stock price of listed companies and the 
+corresponding stock quantity at the end of the statistical period. 
+Specific statistical coverage and calculation methods are as 
+follows: if there is no trading price on the day, the closing price 
+on the last trading day shall be adopted; the price of suspended 
+listed shares shall be calculated at zero; the non-tradable shares 
+of non-equity-restructured companies shall be calculated at the 
+price of circulating A shares; the non-tradable shares of listed 
+companies that issue only B shares shall not be calculated at the 
+market value of their non-tradable shares on the same day. 
+When calculating the market value of the right stock, the 
+market value of the shares in transit (registered and unlisted) 
+should be included. 
+Value of Bonds in the Exchanges Issued  refers to the 
+total amount of coupon issued by various types of bonds during 
+the statistical period. It is calculated at the coverage of the first 
+day of issue. 
+Bonds Trading Turnover  refers to the total amount of 
+all kinds of bonds traded during the statistical period, including 
+the spot amount of bonds traded and the amount of bond 
+repurchase traded. 
+Number of Securities Investment Funds  refers to the 
+number of fund products in the fund market at the end of the 
+period. It is counted since the effective date of the fund contract 
+(the establishment date of the fund), and is excluded from the 
+statistics since the termination date of the fund contract. It is 
+generally counted at the coverage of the main code of the 
+Securities Regulatory Commission (the main contract of the 
+fund). 
+ 

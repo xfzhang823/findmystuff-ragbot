@@ -1,0 +1,387 @@
+ 
+ 
+269 
+资源和环境 
+Explanatory Notes on Main Statistical Indicators 
+ 
+ 
+ 
+Cultivated Land  refers to the land that mainly for the 
+regular cultivation of farm crops by using the surface tillage 
+layer, planting more than one harvest a year (including 
+perennial crops cultivated by more than one harvest a year), 
+including cultivated land, newly-developed land, reclaimed 
+land, consolidated land, fallow; It covers the land with some 
+fruit trees, mulberry trees and others; It also covers fixed ditch, 
+canal, road and sill (ridge) with width less than 1 meter in the 
+South and 2 meters in the North; It covers the land for thermal 
+insulation and moisturizing facilities such as greenhouse, 
+greenhouse and plastic film planted directly by surface tillage 
+layer. 
+Garden Land  refers to land for intensive cultivation of 
+perennial woody plants and herbs to collect fruits, leaves, roots, 
+stems, branches and juice, with a coverage rate over 50% and 
+plant number over 70% of rational plant number per mu. Land 
+for nursery is included. 
+Forest Land  refers to land for planting arbor, bamboo, 
+bush shrub. It does not include the wetland where trees grow, 
+the land for greening trees within the scope of towns and 
+villages, the forest within the scope of railway and highway 
+land acquisition, the land for revetment forest of rivers and 
+ditches. 
+Grassland  refers to land mainly for the growth of 
+herbaceous forage crops. It includes sparse forest grassland 
+with tree canopy density less than 0.1, shrub grassland with 
+shrub coverage less than 40%, excluding wetlands with 
+herbaceous plants. 
+Wetland  refers to the land at the intersection of land and 
+water, where the water level is close to or on the ground surface, 
+or there is shallow ponding and is in a natural state. 
+Land for Urban, Rural, Industrial and Mining 
+Activities  refer to urban and rural residential areas, 
+independent residential areas, and the land used by enterprises 
+and institutions such as industrial and mining, national defense 
+and scenic spots outside residential areas, including their 
+internal traffic and greening land. 
+Land Used for Transport  refers to the land for ground 
+lines, stations, etc. used for transportation. It includes civil 
+airport, automobile passenger and freight transport station, port, 
+wharf, ground transportation pipeline, various roads and rail 
+transit land. 
+Land Used for Water and Water Conservancy 
+Facilities  refers to land for water areas, ditches, hydraulic 
+structures, etc. Flood detention area is not included. 
+Volume of Runoff  refers to the total volume of water 
+running through a certain cross section of a river during a 
+certain period of time, reflecting the water resources condition 
+in a country or a region. The formula for calculating volume of 
+runoff is as follows: 
+River Runoff =Precipitation- Evapotranspiration  
+Drainage Area  Each river has its own main stream and 
+branches to form the water system of the river. Each river has 
+its own catchment’s area, which is also called as the drainage 
+area of the river. 
+Out-flowing Rivers  refer to rivers directly or indirectly 
+flowing into the sea. The area providing water to the 
+out-flowing rivers is called as out-flowing area.  
+Inland Rivers  refer to rivers in inland dry areas that die 
+away in desert on the way or infuse into inland lakes. The area 
+providing water to the inland rivers is called as inland area.  
+Mineral Resources  refer to useful minerals, with solid 
+state, liquid state, gaseity, due to the geological process. 
+Minerals are important natural resources, and important 
+material base for economic and social development. At present, 
+there are more than 170 types of minerals discovered in China. 
+They can be categorized into four groups: energy minerals 
+(including coal, petroleum, natural gas and terrestrial heat), 
+metallic minerals (including iron, manganese, copper, lead and 
+bauxite), nonmetallic minerals (including diamond, limestone 
+and clay), and water/gas related minerals (including ground 
+water, mineral water and carbon dioxide). Metallic minerals 
+can be further classified as ferrous, non-ferrous, noble metal, 
+rare metal, rare earth and dispersed metals. 
+Reserves  are the economically recoverable part of the 
+proved and/or controlled resources, are estimated after pre 
+feasibility study, feasibility study or equivalent technical and 
+economic evaluation, fully considering possible ore loss and 
+dilution, and rational use of conversion factors, which meet the 
+technical feasibility and economic rationality of mining. Oil 
+and natural gas are the remaining proved technical recoverable 
+reserves. 
+Average Temperature  refers to the average air 
+temperature on a regular basis, generally expressed in 
+centigrade in China. Thermometers used for meteorological 
+observation are placed in well-ventilated shelters about 1.5 
+meters above the ground. Therefore, the commonly used 
+temperature refers to the temperature in the shelter 1.5 meters 
+above the ground. The calculation method is as follows: 
+The summation of daily average temperature of one month 
+divided by the actual days of that month represents the monthly 
+average temperature. The summation of monthly average 
+temperature of a year divided by 12 represents the annual 
+average temperature. 
+Average Relative Humidity  refers to the ratio of actual 
+vapour pressure in the air to the saturation water vapour 
+pressure at the current temperature. The calculation method is 
+the same as that of average temperature.  
+Precipitation  refers to the depth of water in liquid state 
+or solid state (thawed), falling from atmosphere onto the 
+ 
+ 
+270 
+Resources and Environment 
+ground without being evaporated, percolating or running off. It 
+is usually expressed in millimeters. The calculation method is 
+as follows: 
+The monthly precipitation is obtained by the sum of daily 
+precipitation of the month, and the annual precipitation is the 
+sum of monthly precipitation of the 12 months of the year. 
+Sunshine Hours  refer to the actual hours of sun 
+irradiating the earth, usually expressed in hours. The 
+calculation method is the same as that of the precipitation. 
+Total Water Resources  refers to total volume of surface 
+water and groundwater which is from the local precipitation  
+and is measured as the summation of run-off for surface water 
+and recharge of groundwater from local precipitation. 
+Surface Water Resources  refers to total volume of 
+yearly renewable water flow which exist in rivers, lakes, 
+glaciers and other surface water, and are measured as the 
+natural run-off of local rivers. 
+Groundwater Resources  refers to total volume of 
+yearly renewable water flow which exist in saturation aquifers 
+of groundwater, and are measured as recharge of groundwater 
+from local precipitation and surface water.  
+Overlapped Measurement between Surface Water and 
+Groundwater  refers to the part of mutual transfer between 
+surface water and groundwater, i.e. which is the run-off of 
+rivers includes some depletion into groundwater while 
+groundwater includes recharge from surface water. 
+Water Supply  refers to gross water supplied by various 
+sources, including losses during distribution. 
+Surface Water Supply  refers to withdrawals  through 
+the surface water supply system, which can be divided into four 
+categories: storage, flow, pumping and transfer project. 
+Groundwater Supply  refers to withdrawals from 
+supplying wells, which can be divided into three categories: 
+shallow layer freshwater, deep confided freshwater and slightly 
+brackish water.  
+Other Water Supply Sources  include supplies by water 
+reclamation plants, rainwater collection projects, seawater 
+desalinization facilities and the consumption of mine water. 
+Water Use  refers to gross water used by various 
+off-stream water users, including losses during distribution, 
+while excluding the direct use of seawater and in-stream water 
+use such as hydroelectric generation and shipping.  
+Water Use for Agriculture  includes uses of water for 
+irrigation of cultivated land, forest land, garden land and grass 
+land, replenishment of fishing farms and water used for 
+livestock raising. 
+Water Use for Industry  refers to water use by industrial 
+and mining enterprises in the production process of 
+manufacturing, processing, cooling, air conditioning, cleansing, 
+washing, etc. Only including new withdrawals of water, 
+excluding reuse of water within enterprise. 
+Water Use for Households and Service  includes water 
+use in both urban and rural areas. Urban water use is composed 
+of households use and public use (including tertiary industry 
+and construction). Rural water use refers to households use. 
+Water Use for Artificial Eco-environment only includes 
+the artificially replenishment of some rivers, lakes and wetlands, 
+and use for urban environment, excluding the natural 
+precipitation and runoff meet. 
+Common Industrial Solid Wastes Generated refers to 
+the amount of common industrial solid wastes the surveyed 
+units actual generated over the year. The common industrial 
+solid wastes refers to the industrial solid wastes that are 
+generated during the industrial process and are not hazardous 
+wastes.  
+Common Industrial Solid Wastes Integrated Use  
+refers to amount of solid wastes from which useable materials 
+can be extracted or converted into usable resources, energy or 
+other materials through reclamation, processing, recycling and 
+exchange (including utilizing in the year the stocks of industrial 
+solid wastes of the previous year) generated by surveyed units 
+over the year of the survey, e.g. being used as agricultural 
+fertilizers, building materials, material for paving road or as 
+backfill material. The information should be measured as the 
+unit of generating wastes. 
+Common Industrial Solid Wastes Disposed  refers to 
+the amount of industrial solid wastes disposed, which covers 
+the amount of previous years, through incineration or other 
+methods to change its physical, chemical and biological 
+properties to reduce or eliminate the hazards or land filled in 
+the sites following the requirements for environmental 
+protection by surveyed units over the year of the survey.  
+Stock of Common Industrial Solid Wastes  refers to the 
+amount of solid wastes placed in special facilities or special 
+sites by enterprises for the purposes of integrated use or 
+disposal over the year of the survey. The sites or facilities 
+should take measures against dispersion, loss, seepage, and air 
+and water contamination. 
+Common Industrial Solid Wastes Discharged  refers to 
+the amount of industrial solid wastes dumped or discharged by 
+producing enterprises to disposal facilities or to other sites over 
+the year of the survey.  
+Hazardous Wastes Generated  refers to the amount of 
+actual hazardous wastes generated by surveyed units over the 
+year of the survey, which is covered secondary generation 
+during the process of disposal and reuse of hazardous wastes. 
+Hazardous waste refers to those listed in the National 
+Hazardous Wastes catalogue or identified as any one of the 
+hazardous properties in light of the national hazardous wastes 
+identification standards and methods. It should be reported 
+following the National Catalogue of Hazardous Wastes (2016 
+Version).  
+Hazardous Wastes Reused and Disposed  refers to the 
+amount of hazardous wastes that are used to extract materials 
+for raw materials or fuel over the year of the survey, and the 
+amount of hazardous wastes which are incineration or specially 
+disposed using other methods to change its physical, chemical 
+and biological properties and thus to reduce or eliminate the 
+ 
+ 
+271 
+资源和环境 
+hazards, or placed ultimately in the sites following the 
+requirements for environmental protection over the year of the 
+survey. It includes the hazardous wastes generated by the 
+enterprise itself and received from other enterprises. 
+Year-end Stock of Hazardous Wastes  refers to the 
+amount of hazardous wastes specially packaged and placed in 
+special facilities or special sites by enterprises by the end of the 
+year, which covered stock of surveyed units generated and 
+received from other units. The special stock facilities should 
+meet the requirements set in relevant environment protection 
+laws and regulations such as “Pollution Control Standards for 
+Hazardous Waste Stock” (GB18597-2001) and take measures 
+against dispersion, loss, seepage, and air and water 
+contamination. 
+Domestic Garbage Collected and Transported  refers 
+to volume of domestic garbage collected and transported to 
+disposal factories or sites during the reference period. Domestic 
+garbage are solid wastes generated from urban households or 
+from service activities for urban households, and solid wastes 
+regarded as municipal domestic garbage according to the laws 
+and 
+administrative 
+regulations, 
+including 
+those 
+from 
+households, commercial activities, markets, cleaning of streets, 
+public sites, offices, schools, factories, mining units and other 
+sources. 
+Rate of Domestic Garbage Harmless Treatment  refers 
+to the ratio of the volume of domestic garbage harmlessly 
+treated to the volume of domestic garbage produced during the 
+reference period. In practical statistics, as the volume of 
+domestic garbage produced is difficult to obtain, it can be 
+replaced by the volume of collected and transported. It is 
+calculated as: 
+rate of domestic garbage harmless treatment 
+volume of domestic garbage harmless treated
+100%
+volume of domestic garbage collected and transported
+
+
+ 
+Forest Area  refers to the area of trees and bamboo grow 
+with a canopy density above 0.2 degree, the area of shrubby 
+tree according to regulations of the government, area of land 
+under agroforestry and the area of trees planted by the side of 
+villages, farm houses and along roads and rivers. 
+Area of Planted Forests  refer to the area of stable 
+growing forests, planted manually or by airplanes, with a 
+survival rate of 80% or higher of the designed number of trees 
+per hectare, or with a canopy density of 0.20 degree or above  
+(after 3-5 years of manual planting or 5-7 years of airplane 
+planting). 
+Forest Coverage Rate  refers to the ratio of forest area 
+to the total land area within the administrative region. The 
+formula is as follows: 
+forest area
+forest coverage rate
+100%
+ 
+area of total land
+
+
+ 
+Total  Stock Volume of Living Trees  refers to the total 
+stock volume of trees accumulated on a certain area of land, 
+including trees in forest, tress in sparse forest, scattered wood 
+and trees planted by the side of villages, farm houses and along 
+roads and rivers.  
+Stock Volume of Forest  refers to total stock volume of 
+timber of tree trunk in a given forest area.  
+Area of Afforestation  refers to the total area of land 
+suitable for afforestation, including barren hills, idle land, sand 
+dunes, non-timber forest land, woodland and “grain for green” 
+land, on which acres of forests, trees and shrubs are planted 
+through manual planting. 
+Manual Planting  refers to technical measures of sowing, 
+planting seedlings and divided transplanting on land suitable 
+for afforestation, including barren hills, idle land, sand dunes, 
+non-timber forest land, woodland and “grain for green” land to 
+increase vegetation coverage rate of forests. 
+Airplane Planting  refers to technical measures of 
+airplane planting with of appropriate artificial help taken under 
+the influence of natural power to restore certain amount of 
+seedlings on land suitable for afforestation, with an aim of 
+increasing vegetation coverage rate of forests or improving 
+forest quality. 
+Closed Hillsides for Afforestation  is a technical 
+measure by isolation with artificial means to form forest or 
+shrub and grass or improve forest quality land, to the suitable 
+area for forest, forest land without stumpage, sparse forest land, 
+or low quality forest, shrub forest. 
+Restoration of Degraded Forest  In order to improve 
+the vitality and structure of forest, effectively control forest 
+degradation, improve forest quality and restore forest function, 
+management measures are taken to the forest of structural 
+imbalance and stability reduction, function reduction or even 
+loss and natural regeneration ability is weak, which include  
+structural adjustment, species replacement, replanting sowing, 
+grafting rejuvenation, etc. 
+Artificial Regeneration  refers to forest reforming 
+process in logging slash, slash burning, the glade through 
+afforestation.  
+Natural Reserves  refer to the area that protect typical 
+natural ecosystems, natural concentrated distribution of rare 
+and endangered wild animal and plant species, and natural 
+relics of special significance. It has a large area to ensure the 
+safety of the main protected objects, and to maintain and 
+restore the quantity of rare and endangered wild animals and 
+plants and their habitats.  
+Landslides  refer to the geological phenomenon of 
+unstable rocks or earth on slopes sliding down along certain 
+soft surface as a result of gravity. 
+Collapse  refers to the geological phenomenon of large 
+mass of rocks or earth suddenly collapsing from the mountain 
+or cliff as a result of gravity.  
+Debris Flow  refers to the sudden rush of flood torrents 
+containing large amount of mud and rocks in mountainous 
+areas. 
+Ground Collapse  refers to the geological phenomenon 
+of surface rocks or earth subsiding into holes or pits as a result 
+of natural or human factors.  
+ 
+ 
+272 
+Resources and Environment 
+Number of Forest Fires  refers to the number of wild 
+fires in forests, woods and woodland outside of cities. In light 
+of the area plagued by fires and the number of casualties, forest 
+fires can be categorized into general forest fires, relatively 
+larger fires, serious forest fires and extraordinary serous forest 
+fires: 1). General forest fires: the destructed forest area is less 
+than 1 hectare, or the fire erupts in other woodland, or the 
+number of deaths is no less than 1 but less than 3, or the 
+number of seriously injured persons is no less than 1 but less 
+than 10 persons. 2). Relatively larger forest fires: the destructed 
+forest area is no less than 1 hectare but less than 100 hectares, 
+or the number of deaths is no less than 3 but less than 10, or the 
+number of seriously injured persons is no less than 10 but less 
+than 50 persons. 3). Serious forest fires: the destructed forest 
+area is no less than 100 hectares but less than 1000 hectares, or 
+the number of deaths is no less than 10 but less than 30, or the 
+number of seriously injured persons is no less than 50 but u less 
+than 100 persons. 4). Extraordinary serious forest fires: the 
+destructed forest area is no less than 1000 hectares, or the 
+number of deaths is no less than 30, or the number of seriously 
+injured persons is no less than 100 persons. 
+Forest Harmful Organisms  refer to the diseases, pests, 
+rats and harmful plants that plague forests, wood, desert and 
+wetland vegetation.  
+Abrupt 
+Environmental 
+Accidents 
+ 
+refer 
+to 
+environmental emergencies that caused or likely to cause 
+significant causalities, serious property damages and pose a 
+major threat and damage to the economic, social or political 
+stability of the country or a region, or have significant social 
+impact that related to the public safety. 
+ 

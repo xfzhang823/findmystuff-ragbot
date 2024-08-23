@@ -1,0 +1,17 @@
+# Ignore the documents directory
+documents/
+
+# Ignore the analysis_tools directory
+sandbox/
+
+# Ignore environment files
+.env
+env/
+
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+
+# Ignore logs and temp files
+*.log
+*.tmp

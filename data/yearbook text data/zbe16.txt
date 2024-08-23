@@ -1,0 +1,223 @@
+ 
+ 
+559 
+运输、邮电和软件业 
+ 
+Explanatory Notes on Main Statistical Indicators 
+ 
+ 
+ 
+Length of Railways in Operation refers to the total 
+length of the trunk line for passenger and freight transportation 
+in full operation or temporary operation. 
+Length of Electrified Trunk Line refers to the length of 
+the trunk line put into operation, capable for the running of 
+electrified locomotives.  
+Length of Highways refers to the actual length of 
+highways at the end of reference period. It covers public roads 
+running vehicles between cities, between urban and rural areas, 
+and between townships (villages), as well as highways passing 
+through streets at small cities and towns, length of bridges and 
+tunnels, width of ferry piers. It does not include the length of 
+streets in cities, dead end highways, the length of streets built 
+for agricultural (forest) production and inside factories (mines). 
+Mileage can only be included when the road is completed, 
+checked and accepted or put into operation. If two or more 
+highways use the same section, the length of the section is 
+counted only once. 
+Length of Navigable Inland Waterways  refers to the 
+length of natural rivers, lakes, reservoirs and canals that are 
+open to navigation for ships and rafts during a given period. It 
+includes the channels with annual seasonal navigation for more 
+than three months, excluding waterways for scattered bamboo 
+and wooden rafts. If two provinces share one river as the border, 
+the length of waterways will be equally divided for each 
+province to avoid duplication. 
+Length of Regular Civil Aviation Routes refers to the 
+total length of all routes for scheduled flights, which is 
+calculated using 10,000 kilometres as the measuring unit. There 
+are usually two ways to calculate the route length: duplicated 
+calculation 
+and 
+non-duplicated 
+calculation. 
+Duplicated 
+calculation means that the same segment of different routes can 
+be added with duplication, while the non-duplicated calculation 
+allows the same segment of different routes to be counted only 
+once.  
+Length of Oil (Gas) Pipelines  refers to the actual 
+transport distance of oil, gas and oil products, an indicator to 
+reflect the length of pipeline routes and a reference to calculate 
+the freight-kilometers. For those sections with double pipelines 
+and alternate pipelines, the length will be calculated according 
+to the length of single pipeline in principle. If the double 
+pipelines perform the transportation at the same time and is 
+unable to be counted separately, the length of pipelines will be 
+the length of double pipelines divided by 2.  
+Freight (Passenger) Traffic  refers to the weight of 
+freight (number of passengers) transported with various means 
+within a specific period of time. Freight transport is calculated 
+in tons and passenger traffic is calculated in terms of number of 
+persons. Freight transport is calculated in terms of the actual 
+weight of the goods, irrespective of the type of freight and 
+distance of transport. Passenger traffic is calculated by the 
+principle that one person can be counted only once in one trip, 
+irrespective of travelling distance and ticket price. The 
+passengers who travel with a discounted ticket or a children 
+ticket is also calculated as one person.  
+Freight Ton-kilometres (Passenger-kilometres) refers to 
+the sum of the product of the volume of transported cargo 
+(passengers) multiplied by the transport distance. AS an 
+indicator to reflect the achievement of the transportation 
+industry, this is an important indicator to show the total results 
+of the transport industry; to prepare and examine the transport 
+plan; and to serve as the main basic data for calculating the 
+efficiency, labour productivity and unit cost of transport. 
+Normally, the shortest distance between the departure station 
+and the destination station (i.e., the payable distance) is the 
+basis in calculating the freight ton-kilometres. The formula is 
+as follows: 
+ation
+ transport
+of
+ 
+distance
+ 
+ 
+)traffic
+(passenger
+ 
+freight 
+)
+kilometres
+-
+(passenger
+ 
+kilometres
+-
+n
+Freight to
+
+
+ 
+Volume of Freight Handled in Coastal Ports  refers to 
+the volume of cargo passing in and out of the harbour area of 
+the major coastal ports and having been loaded and unloaded. 
+The volume of freight handled may be classified by direction of 
+cargo flow as inbound freight and outbound freight, or by 
+nature of trading as freight for domestic trade and freight for 
+foreign trade. It can also be classified by type of freight based 
+on the existing standard classification for transportation 
+industry “Classification and Coding for Freight”. 
+Possession of Civil Transport Vessels  refers to the 
+total number of operating transport vessels at the end of 
+reference period, owned by Chinese enterprises or privately, 
+that are registered in the water transport management agencies 
+and permitted to perform cargo or passenger transport activities 
+(including vessels with foreign flags but owned by Chinese 
+enterprises or citizens). Non-transport vessels and vessels used 
+for agriculture and fishery are not included. 
+Possession of Civil Motor Vehicles refer to the total 
+numbers of vehicles at the end of the reference period that are 
+registered and received vehicles license according to the 
+Working 
+Regulations 
+for 
+Motor 
+Vehicle 
+Registration 
+formulated by the transport management offices. Motor 
+vehicles are classified into different categories. By the structure 
+of motor vehicles, they are divided into passenger vehicles, 
+trucks and others; by ownership, into private vehicles and 
+vehicles for the unit’s use; by usage, into business vehicles and 
+non-business vehicles; and by size of vehicles, into large 
+passenger vehicles, medium-sized passenger vehicles, small 
+passenger vehicles and mini passenger vehicles, heavy trucks, 
+ 
+ 
+560 
+Transport, Postal and Telecommunication Services, and Software Industry 
+light-heavy trucks, light trucks and mini-trucks. 
+Business Volume of Post and Telecommunications 
+refers to the total amount of postal and telecommunication 
+services, expressed in value terms, provided by the post and 
+telecommunications departments for the society. Business 
+volume of post and telecommunications is the sum of each 
+service in kind multiplying with its correspondent unit price 
+(constant price). For business activities without constant price, 
+the business revenue is added up directly. 
+Mobile Phone Subscribers refer to persons who have 
+gone through registration procedures in the operation outlets of 
+enterprises engaged in telecommunications and are hence 
+connected with the mobile phone communication network 
+through the mobile phone switchboards and occupy mobile 
+phone numbers. Included are various types of contracted 
+subscribers, prepaid users for intelligent network and wireless 
+network card users.  
+Internet Users refer to the number of Chinese citizens 
+aged 6 and over who use the Internet in the past six months.  
+Fixed Telephone Subscribers refer to all subscribers who 
+have gone through registration procedures in the operation 
+outlets of enterprises engaged in telecommunications and are 
+hence connected to the local telecommunications service 
+provider through fixed line network.  
+Household Telephone Subscribers refer to all kinds of 
+subscribers with telephone sets paid privately or installed in the 
+dwelling units of residents, and registered with payment as 
+private subscribers or residence subscribers. 
+Capacity of Fixed Long Distance Telephone Exchanges  
+refers to the rated capacity of telephone exchanges to connect 
+long distance telephone network by enterprises engaged in 
+telecommunications. 
+Capacity of Office Telephone Exchanges refers to the 
+capacity (measured in gate) of telephone exchanges installed in 
+the offices of telecommunication service providers for 
+communication between fixed telephones. The capacity of 
+access network equipment is not included.  
+Capacity of Mobile Phone Exchanges refers to the 
+capacity of the maximum services provided to subscribers at 
+any one time as computed based on a certain model of calls 
+distribution and transacting capacity of the mobile phone 
+exchanges. It is calculated based on the actual capacity of 
+equipment connected to network through cutover and put into 
+operation officially at the end of the reference period. 
+Broadband 
+Connection 
+Terminals 
+refer 
+to 
+the 
+connection terminals to internet users actually installed and put 
+into operation, including connection terminals for XDSL, 
+connection terminals for LAN, and other types of connection 
+terminals. N-ISDN connection terminals are not included. 
+Number of Computers refer to the number of computers 
+used by enterprises (entities) at the end of reference period, 
+including desktop computers, notebook computers and tablet 
+computers.  
+Internet refers to the worldwide public computer 
+network which provides access to a range of communication 
+services (including the World Wide Web) and transmits e-mail, 
+news, entertainment, data files, etc. 
+Websites refer to the computer system based on TCP / IP 
+protocol, which is used by the public on the public Internet. It 
+takes the domain name or "www. + domain name" as the 
+website address and is composed of address, software, 
+hardware and content. 
+Sales Through E-commerce refer to the total value of 
+goods and services (including value-added tax) sold by 
+enterprises (entities) with the help of online orders during the 
+reference period. With the help of online orders means 
+receiving orders by internet or public networks automatically, 
+while payments and distributions may not need the help of 
+network. 
+Purchases Through E-commerce refer to the total value 
+of goods and services (including value-added tax) purchased by 
+enterprises (entities) with the help of online orders during the 
+reference period. With the help of online orders means placing 
+orders by internet or public networks automatically, while 
+payments and distributions may not need the help of network. 
+ 
+ 

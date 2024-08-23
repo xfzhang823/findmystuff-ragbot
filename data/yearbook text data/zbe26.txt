@@ -1,0 +1,488 @@
+ 
+ 
+875 
+香港特别行政区主要社会经济指标 
+Explanatory Notes on Main Statistical Indicators 
+ 
+ 
+ 
+Mid-year Population  is compiled using the “resident 
+population” approach.  The population estimate compiled 
+under the “resident population” approach is referred to as the 
+Hong Kong Resident Population, which comprises “Usual 
+Residents” and “Mobile Residents”. “Usual Residents” include 
+two categories of people: (a) Hong Kong Permanent Residents 
+who have stayed in Hong Kong for at least 3 months during the 
+6 months before or for at least 3 months during the 6 months 
+after the reference time-point, regardless of whether they are in 
+Hong Kong or not at the reference time-point; and (b) Hong 
+Kong Non-permanent Residents who are in Hong Kong at the 
+reference time-point.   For those Hong Kong Permanent 
+Residents who are not "Usual Residents", they are classified as 
+"Mobile Residents" if they have stayed in Hong Kong for at 
+least 1 month but less than 3 months during the 6 months 
+before or for at least 1 month but less than 3 months during the 
+6 months after the reference time-point, regardless of whether 
+they are in Hong Kong or not at the reference time-point.  
+Under the “resident population” approach, visitors are not part 
+of the Hong Kong population. 
+Crude Birth Rate  refers to the number of live births in 
+a given year per 1000 mid-year population of that year.  
+Crude Death Rate  refers to the number of deaths in a 
+given year per 1000 mid-year population of that year. 
+Infant Mortality Rate  refers to the number of deaths of 
+age under one in a given year per 1000 live births in that year. 
+Total Fertility Rate  refers to the average number of 
+children that would be born alive to 1000 women during their 
+lifetime if they were to pass through their childbearing ages 
+15-49 experiencing the age specific fertility rates prevailing in 
+a given year. 
+Expectation of Life at Birth  refers to the number of 
+years of life that a person born in a given year is expected to 
+live if he/she was subject to the prevalent mortality conditions 
+as reflected by the set of age-sex specific mortality rates for 
+that year. 
+Labour Force  refers to the land-based non-institutional 
+population aged 15 and over who satisfy the criteria for being 
+classified as employed population or unemployed population. 
+Labour Force Participation Rate  refers to the 
+proportion 
+of 
+labour 
+force 
+in 
+the 
+total 
+land-based 
+non-institutional population aged 15 and over. 
+Employed Persons  refer to those persons aged 15 and 
+over who have been at work for pay or profit during the 7 days 
+before enumeration or have had formal job attachment.  
+Unpaid family workers and persons who were on leave/holiday 
+during the 7 days before enumeration are included.  
+Unemployed Persons  refer to those persons aged 15 
+and over who (a) have not had a job and should not have 
+performed any work for pay or profit during the 7 days before 
+enumeration; and (b) have been available for work during the 7 
+days before enumeration; and (c) have sought work during the 
+30 days before enumeration.  If a person aged 15 or over 
+fulfils the conditions (a) and (b) above but has not sought work 
+during the 30 days before enumeration because he/she believes 
+that work is not available, he/she is still classified as 
+unemployed, being regarded as a so-called “discouraged 
+worker”. Unemployed population also includes persons without 
+a job who have sought work but have not been available for 
+work because of temporary sickness; and persons without a job 
+who have been available for work but have not sought work 
+because they have made arrangements to take up a new job or 
+to start business on a subsequent date; or were expecting to 
+return to their original jobs. 
+Unemployment Rate  refers to the proportion of 
+unemployed persons in the labour force. 
+Monthly Employment Earnings  refer to earnings 
+(before deduction of Mandatory Provident Fund contributions) 
+from all jobs during the month before enumeration.  For 
+employees, they include wage and salary, bonus, commission, 
+tips, housing allowance, overtime allowance, attendance 
+allowance and other cash allowances. However, back pays are 
+excluded.  For employers and self-employed, they refer to 
+amounts drawn from the self-owned enterprise for personal and 
+household use.  If information on the amounts drawn for 
+personal and household use is not available, data on net 
+earnings from business would be collected instead. 
+Gross Domestic Product (GDP)  is a measure of the 
+total value of production of all resident producing units of an 
+economy in a specified period (typically a year or a quarter), 
+before deducting the consumption of fixed capital. 
+Per Capita GDP  is obtained by dividing the total GDP 
+in a year by the mid-year population of that economy in the 
+same year. 
+Gross National Income (GNI)  is a measure of the total 
+income earned by residents of an economy from engaging in 
+various economic activities, irrespective of whether the 
+economic activities are carried out within the economic 
+territory of the economy or outside.  In other words, in 
+compiling GNI, income earned by residents from engaging in 
+various economic activities within or outside the economic 
+territory are included, whereas income earned by non-residents 
+from engaging in economic activities within the economic 
+territory are excluded. GNI is computed as follows: 
+GNI = GDP + Net external primary income flows 
+= GDP + Primary income earned by residents  
+from outside the economic territory -  
+Primary income earned by non-residents  
+from within the economic territory 
+Primary income  comprises investment income and 
+compensation of employees (CE).  Investment income 
+includes direct investment income (DII), portfolio investment 
+income (PII) and other investment income (OII) as well as 
+income on reserve assets (RA). 
+Per capita GNI  of an economy is obtained by dividing 
+GNI in a year by the mid-year population of that economy in 
+the same year. 
+Balance of Payments (BoP)  is a statistical statement 
+ 
+ 
+876 
+Main Social and Economic Indicators of Hong Kong Special Administrative Region 
+that systematically summarises, for a specific time period 
+(typically a year or a quarter), the economic transactions of an 
+economy with the rest of the world (i.e. between residents and 
+non-residents).  A BoP account comprises two broad accounts : 
+(a) the current account; and (b) the capital and financial 
+account. 
+Current Account  measures the flows of goods, services, 
+primary income and secondary income between residents and 
+non-residents. 
+Goods  under the BoP current account mainly cover 
+general merchandise, net exports of goods under merchanting 
+and non-monetary gold.  
+Services  under the BoP current account mainly cover 
+manufacturing services, transport, travel, insurance and pension 
+services, financial services and other services.   
+Primary Income Account  shows the amounts 
+receivable and payable abroad in return for providing/obtaining 
+use of labour, financial resources or natural resources to/from 
+non-residents.  The concepts and definitions of primary 
+income under the current account of the BoP are the same as 
+those of the external primary income flows under GNI. 
+Secondary Income Account  records current transfers 
+between residents and non-residents.  Current transfers are 
+transactions in which real or financial resources that are likely 
+to be consumed immediately or shortly are provided without 
+the receipt of equivalent economic values in return.  Current 
+transfers are unilateral in nature and are offsetting entries in the 
+BoP account for one-sided transactions. Examples include 
+workers' remittances, donations, official assistance and 
+pensions. 
+Capital Account  measures external transactions in 
+capital transfers, and the acquisition and disposal of 
+non-produced, non-financial assets (such as trademarks and 
+brand names).  Examples of capital transfers include 
+forgiveness of debts by creditors, and cash transfers involving 
+the acquisition or disposal of fixed assets. 
+Financial Account  records transactions in financial 
+assets and liabilities between residents and non-residents.  It 
+shows how an economy’s external transactions are settled.  
+Transactions in the financial account are classified by function 
+(i.e. the purpose of the investment) into direct investment, 
+portfolio investment, financial derivatives, other investment 
+and reserve assets. 
+Direct Investment  refers to external investment in 
+which an investor of an economy acquires a lasting interest and 
+a significant degree of influence or an effective voice in the 
+management of an enterprise located in another economy.  For 
+statistical purpose, an effective voice is taken as being 
+equivalent to a holding of 10% or more of the voting power in 
+an enterprise. 
+Portfolio 
+Investment 
+ 
+refers 
+to 
+investment 
+in 
+non-resident equity securities and debt securities (e.g. bonds 
+and notes, money market instruments), other than that included 
+in direct investment or reserve assets.  Compared with direct 
+investors, portfolio investors have no lasting interest or 
+influence in the management of the enterprises concerned.  A 
+holding of less than 10% of the voting power in an enterprise is 
+regarded as portfolio investment. 
+Financial Derivatives  are financial instruments that are 
+linked to another specific financial instrument, indicator or 
+commodity, and through which specific financial risks (such as 
+interest rate risk, foreign exchange risk, equity and commodity 
+price risks, credit risk, and so on) can be traded in their own 
+right in financial markets.  Financial derivatives include 
+option-type contracts (e.g. warrants and options) and 
+forward-type contracts (e.g. futures, interest rate swaps, 
+currency swaps, forward rate agreements, forward foreign 
+exchange contracts). 
+Other Investment  refers to other financial claims on 
+and liabilities to non-residents that are not classified as direct 
+investment, portfolio investment, financial derivatives or 
+reserve assets.  Other investment includes non-marketable 
+loans, currency and deposits, trade credits and advances, and 
+other assets/liabilities.  
+Reserve Assets  are external assets that are readily 
+available to and controlled by the monetary authority of an 
+economy (which refers to the Hong Kong Monetary Authority 
+in the case of Hong Kong) for meeting balance of payments 
+financing needs, for intervention in exchange markets to 
+regulate the currency exchange rate of that economy, and for 
+other related purposes (such as maintaining confidence in the 
+currency and the economy, and serving as a basis for foreign 
+borrowing). 
+International Investment Position (IIP)  is a balance 
+sheet showing the stock of external financial assets and 
+liabilities of an economy at a particular time point. The 
+difference between the external financial assets and liabilities is 
+the net IIP of the economy, which represents either its net claim 
+on or net liability to the rest of the world.  Being fully 
+consistent with the BoP financial account, IIP is also 
+categorised by type of investment.  Assets and liabilities are 
+divided into direct investment, portfolio investment, financial 
+derivatives and other investment.  The asset side of IIP also 
+includes the reserve assets.  For detailed explanation on 
+investment components, please refer to the explanatory notes 
+on the components of the financial account of the BoP account. 
+Net IIP  is the difference between total external financial 
+assets and total external financial liabilities.   
+Index of Industrial Production  measures the changes 
+in local industrial output in real terms, i.e. changes in the 
+volume of local production after discounting the effect of price 
+changes. 
+Usable Floor Area  is defined as the aggregate of the 
+areas of the floor or floors in a storey or a building excluding 
+any staircases, public circulation space, lift landings, lavatories, 
+water-closets, kitchens and any space occupied by machinery 
+for any lift, air-conditioning system or similar service provided 
+for the building. 
+Buildings with Consents to Commence Work  refer to 
+buildings with “Consents” to commence building works issued 
+by the Buildings Department.  Such “Consents” are issued to 
+private development projects (including Hong Kong Housing 
+Society’s projects). 
+First Submission  refers to plans for a building project 
+which are first submitted to the Building Authority for 
+approval. 
+Major Revision  refers to building plans which have 
+been so extensively revised that they must be fundamentally 
+ 
+ 
+877 
+香港特别行政区主要社会经济指标 
+re-assessed. 
+Owner-occupier  refers to a household which owns the 
+quarters it occupies. 
+Sole Tenant  refers to a household which rents the whole 
+quarters it occupies from someone who lives outside the 
+quarters without sharing it with other household(s) or 
+subletting. 
+Co-tenant  refers to two or more households each of 
+which rents part of the quarters from someone who lives 
+outside the quarters. 
+Main Tenant  refers to a household which rents the 
+whole quarters it occupies from someone who lives outside the 
+quarters and sublets part of it to other household(s). 
+Sub-tenant  refers to a household which rents part of the 
+quarters from someone who lives in the same quarters. 
+Rent Free  refers to a household which occupies an 
+accommodation free, with or without the owner’s permission. 
+This does not include owner-occupiers or households 
+occupying accommodation provided by employers. 
+Accommodation Provided by Employer  refers to a 
+household which occupies an accommodation provided by the 
+employer of one of the household members.  This also 
+includes households occupying quarters leased from employers 
+at a nominal rent.  If a household member uses housing 
+allowance 
+given 
+by 
+his/her 
+employer 
+for 
+renting 
+accommodation, the tenure is not regarded as “accommodation 
+provided by employer”. 
+Imports  are goods which have been produced or 
+manufactured in places outside the jurisdiction of Hong Kong 
+and brought into Hong Kong for local use or for subsequent 
+re-export as well as Hong Kong products re-imported.  Their 
+values are recorded on cost, insurance and freight (c.i.f.) basis. 
+Total Exports  comprise domestic exports and re-exports.  
+Domestic exports are the natural produce of Hong Kong or 
+products of a manufacturing process in Hong Kong which has 
+changed permanently and substantially the shape, nature, form 
+or utility of the basic materials used in manufacture.  
+Processes such as simple diluting, packing, bottling, drying, 
+simple assembling, sorting, decorating, etc., do not confer 
+Hong Kong origin. Re-exports are products which have 
+previously been imported into Hong Kong and which are 
+re-exported without having undergone in Hong Kong a 
+manufacturing process which has changed permanently and 
+substantially the shape, nature, form or utility of the basic 
+materials used in the manufacture.  Their values are recorded 
+on free-on-board (f.o.b.) basis. 
+Exports to the Mainland of China for Outward 
+Processing  refer to raw materials or semi-manufactures 
+exported from or through Hong Kong to the mainland of China 
+for processing with a contractual arrangement for subsequent 
+re-importation of the processed goods into Hong Kong. 
+Imports from the Mainland of China Related to 
+Outward Processing in the Mainland  refer to processed 
+goods imported to Hong Kong from the mainland of China, of 
+which all or part of the raw materials or semi-manufactures 
+have been under contractual arrangement exported from or 
+through Hong Kong to the mainland of China for processing. 
+Re-exports of the Mainland of China Origin to Other 
+Places (excluding the Mainland of China) Involving 
+Outward Processing in the Mainland of China  refer to 
+processed goods re-exported through Hong Kong, of which all 
+or part of the raw materials or semi-manufactures have been 
+exported from or through Hong Kong to the mainland of China 
+for processing with a contractual arrangement for subsequent 
+re-importation of the processed goods into Hong Kong. 
+Direct Investment  refers to external investment in 
+which an investor of an economy acquires a lasting interest and 
+a significant degree of influence or an effective voice in the 
+management of an enterprise located in another economy.  For 
+statistical purpose, an effective voice is taken as being 
+equivalent to a holding of 10% or more of the voting power in 
+an enterprise.  Direct investment comprises equity and 
+investment fund shares and debt instruments.  Equity and 
+investment fund shares include equity in branches, shares in 
+subsidiaries and associates, investment fund shares and 
+reinvestment of earnings (which refers to the investors’ share of 
+earnings not distributed by branches, subsidiaries, associates or 
+investment funds).  Debt instruments mainly involve 
+inter-company debt transactions.  These include short-term 
+and long-term borrowing and lending of funds between parent 
+companies and their branches, subsidiaries and associates. 
+Inward Direct Investment  refers to direct investment  
+by a non-Hong Kong resident on a Hong Kong resident 
+enterprise.  Typical examples of inward direct investment are 
+multinational corporations’ branches and subsidiaries operating 
+in Hong Kong. 
+Outward Direct Investment  refers to direct investment 
+by a Hong Kong resident on a non-resident enterprise. 
+Position of Direct Investment  refers to the value of 
+investment abroad or investment received from abroad of Hong 
+Kong residents at a specified date. 
+Flow of Direct Investment refers to the additions/ 
+withdrawals of investment abroad or investment received from 
+abroad of Hong Kong residents during a period. 
+Loan Fund  finances loans and advances for such 
+schemes as housing loans and education loans.  The main 
+sources of income are appropriations from the General 
+Revenue Account, loan repayments and interest on loans. 
+Effective Exchange Rate Index (EERI) for the Hong 
+Kong Dollar (HKD) is an index which measures movements 
+in the weighted average of the exchange rate of the HKD 
+against the currencies of major trading partners of Hong Kong.  
+It serves as an indicator for measuring the overall strength of 
+the HKD relative to selected currencies.  The index currently 
+uses January 2020 as the base and includes 18 currencies. 
+Exchange Rates Between the Hong Kong Dollar and 
+Other Currencies  refer to the closing middle market 
+telegraphic transfer rates or notes rates. 
+Authorized Institutions  include licensed banks, 
+restricted licence banks and deposit-taking companies.  
+Licensed banks can accept deposits of any size and any term of 
+maturity. With the final phase of interest rate deregulation came 
+into effect on 3 July 2001, there is no restriction on interest rate 
+payable.  As for restricted licence banks, they can accept time 
+deposits in amounts of not less than HK$500,000 with any term 
+of maturity. Deposit-taking companies can however accept time 
+deposits in amounts of not less than HK$100,000 with a term 
+of maturity of at least three months.  Both restricted licence 
+ 
+ 
+878 
+Main Social and Economic Indicators of Hong Kong Special Administrative Region 
+banks and deposit-taking companies have no restriction on 
+interest rate payable. 
+Foreign Currency Swap Deposits  refer to deposits 
+involving customers buying foreign currencies in the spot 
+market and placing them as deposits with authorized 
+institutions, while at the same time entering into a contract to 
+sell such foreign currencies (principal plus interest) forward in 
+line with the maturity of such deposits.  For most analytical 
+purpose, they should be regarded as Hong Kong dollar time 
+deposits. 
+Money Supply M1  refers to the sum of legal tender 
+notes and coins held by the public plus customers’ demand 
+deposits placed with licensed banks. 
+Money Supply M2  refers to the sum of M1 plus 
+customers’ savings and time deposits with licensed banks, plus 
+negotiable certificates of deposit issued by licensed banks held 
+by non-authorized institutions. 
+Money Supply M3  refers to the sum of M2 plus 
+customer deposits with restricted licence banks (RLBs) and 
+deposit-taking companies (DTCs) plus negotiable certificates 
+of deposit issued by RLBs and DTCs held by non-authorized 
+institutions. 
+Hang Seng Index is a freefloat-adjusted market 
+capitalisation-weighted index with capping on individual 
+constituent weighting. The constituent stocks of the Hang Seng 
+Index are grouped under four sub-indexes, namely Finance, 
+Utilities, Properties, and Commerce and Industry. 
+Consumer Price Index (CPI)  measures the changes 
+over time in the price level of consumer goods and services 
+generally purchased by households.  The year-on-year rate of 
+change in the CPI is widely used as an indicator of the inflation 
+affecting consumers.  Different CPI series are compiled to 
+reflect the impact of consumer price changes on households in 
+different expenditure ranges.  The CPI(A), CPI(B) and CPI(C) 
+are compiled based on the expenditure patterns of households 
+in the relatively low, medium and relatively high expenditure 
+ranges respectively.  A Composite CPI is compiled based on 
+the overall expenditure pattern of all the above households 
+taken together to reflect the impact of consumer price changes 
+on the household sector as a whole.  Educational Attainment  
+refers to the highest level of education ever attained by a person 
+in school or other educational institution, regardless of whether 
+he/she had completed the course.  Only formal courses are 
+counted as educational attainment.  A formal course shall be 
+one that lasts for at least one academic year, requires specific 
+academic qualifications for entrance (except sub-degree, 
+associate degree, degree and post-graduate courses offered by 
+the Open University of Hong Kong) and includes examinations 
+or specific academic assessment procedures. 
+Social Security Schemes  aim to provide for the basic 
+and special needs of the members of the community who are in 
+need of financial or material assistance.  The non-contributory 
+social security system comprises Comprehensive Social 
+Security Assistance Scheme, Social Security Allowance 
+Scheme, 
+Criminal 
+and 
+Law 
+Enforcement 
+Injuries 
+Compensation Scheme, Traffic Accident Victims Assistance 
+Scheme and Emergency Relief. 
+Comprehensive Social Security Assistance Scheme  
+provides a safety net for those who cannot support themselves 
+financially.  It is designed to bring their income up to a 
+prescribed level to meet their basic needs.  An applicant must 
+satisfy the residence requirements and pass both the income 
+and assets tests. 
+Social Security Allowance Scheme  includes Normal 
+Disability Allowance, Higher Disability Allowance, Old Age 
+Allowance (OAA), Normal Old Age Living Allowance, Higher 
+Old Age Living Allowance, Guangdong (GD) Scheme and 
+Fujian (FJ) Scheme.  The OAA and Disability Allowance 
+provide a monthly allowance to Hong Kong residents who are 
+70 years of age or above or who are severely disabled to meet 
+their special needs arising from old age or disability 
+respectively.  The Old Age Living Allowance (OALA) 
+(renamed as Normal OALA), launched in April 2013, and the 
+Higher OALA,  launched in June 2018, are to provide a 
+monthly allowance to supplement the living expenses of Hong 
+Kong residents aged 65 or above who are in need of financial 
+support.  The GD Scheme was launched in October 2013 and 
+the FJ Scheme was launched in April 2018.  The OALA 
+(including Normal OALA and Higher OALA) under the GD 
+Scheme and the FJ Scheme were launched in January 2020. 
+Criminal and Law Enforcement Injuries Compen- 
+sation Scheme  aims to provide financial assistance to 
+persons (or to their dependants in cases of death) who are 
+injured as a result of a crime of violence, or by a law 
+enforcement officer using a weapon in the execution of his duty.  
+The Scheme is non-means-tested.  
+Traffic Accident Victims Assistance Scheme  aims to 
+provide speedy financial assistance to road traffic accident 
+victims (or to their dependants in cases of death) on a 
+non-means tested basis, regardless of the element of fault 
+leading to the occurrence of the accident. Payments are made 
+for personal injuries, while loss of or damage to property is not 
+covered. 
+Emergency Relief  is provided for victims of natural and 
+other disasters such as fire, typhoon, flood, rainstorm, landslide, 
+house collapse, and also for evacuees of buildings and premises 
+considered to be dangerous under Closure Orders. 
+ 
+ 
+ 

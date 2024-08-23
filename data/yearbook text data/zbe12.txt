@@ -1,0 +1,167 @@
+ 
+ 
+403 
+农  业 
+Explanatory Notes on Main Statistical Indicators 
+ 
+ 
+ 
+Gross Output Value of Agriculture, Forestry, Animal 
+Husbandry and Fishery  refers to the total value of products 
+(expressed in monetary terms) of agriculture, forestry, animal 
+husbandry and fishery, and total value of services in support of 
+agriculture, forestry, animal husbandry and fishery activities. It 
+reflects the total scale and results of agricultural production 
+during a given period. Before 1993, the gross output value of 
+agriculture, forestry, animal husbandry and fishery included 
+agriculture, forestry, animal husbandry, sideline and fishery. 
+Since 1993, the subdivision of sideline occupations has been 
+cancelled, and the hunting of wild animals has been classified 
+into animal husbandry, and the gathering of wild plants and 
+commodity industry run by rural household have been included 
+in farming. A new industrial classification of economic 
+activities was introduced in 2003. Under the new classification, 
+the gross output value of agriculture included the value of 
+farming, forestry, animal husbandry, and fishery, and included 
+value of services to agriculture, forestry, animal husbandry and 
+fishery. In 2018, the output value of services to agriculture, 
+forestry, animal husbandry and fishery was renamed the output 
+value of professional and support activities in agriculture, 
+forestry, animal husbandry and fishery, value of industrial 
+output by rural households is not included in agriculture. 
+According to the result of the first, second and third agriculture 
+census, efforts were made to adjust the output value of 
+agriculture, animal husbandry and fishery output. In line with 
+the Classification of Products for Statistical Purposes 
+implemented in 2010, relevant revisions were made on the 
+output value of agriculture and forestry in 2009.  
+Gross output value of agriculture is calculated by product 
+method, and is obtained by multiplying the output of each 
+product or by-product by its price, resulting in the output value 
+of each single item. For a small number of products, annual 
+output of which is not available or difficult to get due to the 
+long production (growing) process involved, the output value is 
+estimated through an indirect approach. The sum of output 
+values of all products of agriculture, forestry, animal husbandry 
+and fishery and professional and support activities in 
+agriculture, forestry, animal husbandry and fishery is then 
+equal to the gross output value of agriculture. 
+Grain Output  refers to the total output of grains 
+produced within a calendar year. It includes summer crops, 
+early rice and autumn crops by harvest seasons; and covers 
+cereals, beans and tubers by type of crops. Output of cereals 
+cover husked grain only. Output of beans refers to dry beans 
+without pods. The output of tubers (sweet potatoes and potatoes, 
+not including taros and cassava) are converted with the ratio of 
+4:1, i.e. 4 kilograms of fresh tubers were equivalent to 1 
+kilogram of grain before 1964. Since 1964 the ratio has been 
+changed to 5:1. Tubers consumed as vegetables (such as 
+potatoes) in cities and suburbs are calculated as fresh 
+vegetables and their output is not included in the output of 
+grain. Data on grain production before 1989 were obtained 
+through the comprehensive statistical reporting system. Since 
+1989, data from sample surveys are used. 
+Cotton Output  refers to cotton production in the whole 
+country including cotton planted in spring and in summer. 
+Output is measured as the weight of ginned cotton. Ceiba is not 
+included. 
+Output of Oil-bearing Crops  refers to the total 
+production of oil-bearing crops of various kinds, including 
+peanuts (dry, in shell), rapeseeds, sesame, sunflower seeds, flax 
+seeds, and other oil-bearing crops. Soybeans, oil-bearing 
+woody plants, and wild oil-bearing crops are not included. 
+Output of Aquatic Products  refers to final output 
+actually yielded from fishing production (fishery and breeding), 
+including all output of marine and freshwater fish, crustaceans 
+(shrimps, crabs), shellfish, cephalopod, seaweed and other 
+fishery products. Data on output of aquatic products are 
+reported by fishery agencies level by level. Before 1995, 
+among the shellfish, oyster was counted as fresh meat; and 5 
+kilograms of ark shell, clams and frogs were equivalent to 1 
+kilogram of fresh aquatic products; they have all been counted 
+as fresh aquatic products since 1996. 
+Output of Pork, Beef, Mutton and Poultry  refers to 
+the meat of slaughtered hogs, cattle, sheep and goats with head, 
+feet, and offal taken away. Before 1996, data were obtained 
+through bottom-up comprehensive reporting system. The first 
+agricultural census of China in 1996 revealed some discrepancy 
+between the production of animal products from the annual 
+reports and that from the census. Efforts were made to adjust 
+the output value of animal husbandry to make the figures from 
+the annual reports consistent with the census data. Since 1999, 
+the NBS conducted sample surveys in selected regions for the 
+major animal husbandry products, such as hogs, cattle, sheep 
+and goats and fowls, and the data from sample surveys are used 
+as finalized national data. Production of other regions which 
+are not covered by the sample survey is still reported by 
+statistical agencies level by level. A monitoring and survey 
+program was set up in 2008 on main livestock, and data on the 
+main livestock such as hog, cattle, sheep and poultry from the 
+sample survey became the official data. 
+Number of Livestock or Poultry in Stock at 
+Beginning/End of Period  refers to the total number of large 
+animals, pigs, sheep, fowls, etc. raised at the beginning/end of 
+the reference period. Data reporting system and data adjustment 
+are the same as that in the output of pork, beef, mutton and 
+poultry. 
+Sown Area of Crops  refers to area of all land 
+(cultivated or non-cultivated area) sown or transplanted with 
+ 
+ 
+404 
+Agriculture 
+crops that are harvested within the calendar year. All crops 
+harvested within the year are counted as sown area, regardless 
+of being sown in this year or the previous year. Crops sown this 
+year but will be harvested in the coming year are excluded. 
+Irrigated Area of Cultivated Land  refers to area of 
+land that are effectively irrigated, i.e. relatively level land, 
+where there are water sources or complete sets of irrigation 
+facilities to lift and move adequate water for irrigation purpose 
+under normal conditions. Under normal situations, irrigated 
+area of cultivated land is the sum of watered fields and irrigated 
+fields where irrigation systems or equipment have been 
+installed for regular irrigation purpose. It is an important 
+indicator 
+to 
+reflect 
+the 
+farmland 
+water 
+conservancy 
+construction in China. 
+Consumption of Chemical Fertilizers in Agriculture  
+refers to the quantity of chemical fertilizers applied in 
+agriculture in the year, including nitrogenous fertilizer, 
+phosphate fertilizer, potash fertilizer, and compound fertilizer. 
+The consumption of chemical fertilizers is calculated in terms 
+of volume of effective components by means of converting the 
+gross weight of the respective fertilizers into weight containing 
+effective component (e.g. nitrogen content in nitrogenous 
+fertilizer, phosphorous pentoxide contents in phosphate 
+fertilizer, and potassium oxide contents in potash fertilizer). 
+Compound fertilizer is converted in regard to its major 
+components. The formula is: 
+Volume of effective component= physical quantity× 
+effective component of certain chemical fertilizer (%) 
+Total Power of Agricultural Machinery  refers to the 
+total rated capacity of all agricultural machinery. Agricultural 
+machinery refers to the machines and equipment which are 
+used for activities of farming, animal husbandry, fishery, 
+primary processing of agricultural products, agricultural 
+transport and infrastructure construction of farmland. Total 
+power of agricultural machinery is classified into 4 groups 
+according to the energy used: 
+Diesel engine power refers to the total rated capacity of all 
+diesel engines.  
+Gasoline engine power refers to the total rated capacity of 
+all gasoline engines. 
+Electric motor power refers to the total rated capacity of 
+all electric motors (include submersible pump motors). 
+Other mechanical powers refer to the total mechanical 
+capacity of machinery using other forms of energy apart from 
+diesel, gasoline and electricity, such as hydro power, wind 
+power, coal and solar energy.  
+Data are mainly from Ministry of Agriculture and Rural 
+Affairs. 
+ 

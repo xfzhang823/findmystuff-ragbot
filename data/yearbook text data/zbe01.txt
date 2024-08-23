@@ -1,0 +1,257 @@
+ 
+ 
+26 
+General Survey 
+Explanatory Notes on Main Statistical Indicators 
+ 
+ 
+ 
+Divisions of Administrative Areas  refer to the division 
+of administrative areas by the State. The relative laws define 
+the administrative division as follows: 1) the whole country is 
+divided into provinces, autonomous regions and municipalities 
+directly under the Central Government; 2) provinces and 
+autonomous regions are further divided into autonomous 
+prefectures, counties, autonomous counties and cities; 3) 
+autonomous prefectures are further divided into counties, 
+autonomous counties and cities; 4) counties and autonomous 
+counties are further divided into townships, ethnic townships 
+and towns; 5) municipalities directly under the Central 
+Government and large cities are divided into districts and 
+counties, 6) the State shall, when necessary, establish special 
+administrative regions. 
+Average Annual Growth Rate  shows the average 
+growth rate of social and economic development during a 
+longer period. It can not be directly calculated by chain based 
+growth rate. The relation is: 
+Average growth rate = average speed of development – 1 
+Average speed of development is the time series average 
+of speed which is obtained through chain-based calculation. 
+Because the reference bases during the different periods are 
+different, average speed of development can not be calculated 
+by the general method. Level approach and accumulative 
+approach for calculating average speed of development rate are 
+applied. The “level approach”, or geometric average approach, 
+is derived by the formula of geometric average of the 
+chain-based 
+speeds 
+of 
+development 
+by 
+continuous 
+multiplication. The other is called the “accumulative approach” 
+or the “equation” method, which is derived by the summation 
+of the actual figure of each year in the interval divided by the 
+figure in the base year. The level approach focuses on the level 
+of the last year, while the accumulative approach emphasizes 
+the aggregate development for the entire duration.  
+The average annual growth rates listed in the Yearbook are 
+calculated by the level approach except for the growth rate of 
+investment in fixed assets. The base year is not listed in the 
+duration for which average annual growth rates are computed. 
+For instance, the average annual growth rate of the 43 years 
+since 1949 is shown as the average annual growth rate of 
+1950-1992 without showing the base year 1949.  
+Industrial Classification of the National Economy  
+The new Industrial Classification of the National Economy 
+(GB/T 4754-2017) is introduced starting from the compilation 
+of 2017 annual statistics and 2018 monthly or quarterly 
+statistics. The revision, based on the 2011 classification, was 
+organized by the National Bureau of Statistics taking into 
+consideration of the characteristics of economic activities in 
+China and the International Standards of the Industrial 
+Classification of All Economic Activities (ISIC/Rev.4) of the 
+United Nations. The new Classification was promulgated by 
+the former National Administration of Quality Supervision, 
+Inspection 
+and 
+Quarantine 
+and 
+the 
+Standardization 
+Administration of the People's Republic of China on June 30, 
+2017. The revised version of the Industrial Classification of the 
+National Economy (GB/T 4754-2017) is composed of 20 
+sections, 97 divisions, 473 groups and 1382 classes. 
+Registration Status of Enterprises (units)  Enterprises 
+are classified into 3 categories, namely enterprises with 
+domestic investment, enterprises with investment from Hong 
+Kong, Macao and Taiwan, and enterprises with foreign 
+investment, according to the registration status of an enterprise 
+in market supervision administration. Domestic-invested 
+enterprises include state-owned enterprises, collective-owned 
+enterprises, cooperative enterprises, joint ownership enterprises, 
+limited liability corporations, share-holding corporations Ltd., 
+private enterprises and other enterprises. Included in the 
+enterprises with investment from Hong Kong, Macao and 
+Taiwan 
+and 
+enterprises 
+with 
+foreign 
+investment 
+are 
+joint-venture 
+enterprises, 
+cooperative 
+enterprises, 
+sole- 
+proprietorship enterprises and share-holding corporations Ltd.  
+State-owned 
+Enterprises 
+refer 
+to 
+non-corporation 
+economic units where the entire assets are owned by the state 
+and which have been registered in accordance with the 
+Regulation of the People’s Republic of China on the 
+Management of Registration of Corporate Enterprises. Not 
+included from this category are state sole-proprietorship 
+corporations in the limited liability corporations. 
+Collective-owned Enterprises  refer to economic units 
+where the assets are owned collectively and which have been 
+registered in accordance with the Regulation of the People’s 
+Republic of China on the Management of Registration of 
+Corporate Enterprises. 
+Cooperative Enterprises  refer to a form of collective 
+economic units (enterprises) where capitals come mainly from 
+employees as their shares, with certain proportion of capital 
+from the outside, where production is organized on the basis of 
+independent operation, independent accounting for profits and 
+losses, joint work, democratic management, and a distribution 
+system that integrates remuneration according to work with 
+dividend according to capital share. 
+Joint Ownership Enterprises  refer to economic units 
+established by two or more corporate enterprises or corporate 
+institutions of the same or different ownership, through joint 
+investment on the basis of voluntary participation, equality, and 
+mutual benefits. They include state joint ownership enterprises; 
+collective joint ownership enterprises; joint state-collective 
+enterprises; and other joint ownership enterprises. 
+Limited Liability Corporations  refer to economic units 
+established with investment from 2-50 investors and registered 
+ 
+ 
+27 
+综  合 
+in accordance with the Regulation of the People’s Republic of 
+China on the Management of Registration of Corporations, 
+each investor bearing limited liability to the corporation 
+depending on its share of investment, and the corporation 
+bearing liability to its debt to the maximum of its total assets. 
+Limited liability corporations include state sole-proprietorship 
+corporations and other limited liability corporations. 
+Share-holding Corporations Ltd.  refer to economic 
+units registered in accordance with the Regulation of the 
+People’s Republic of China on the Management of Registration 
+of Corporations, with total registered capital divided into equal 
+shares and additional capitals raised through issuing stocks. 
+Each investor bears limited liability to the corporation 
+depending on the holding of shares, and the corporation bears 
+liability to its debt to the maximum of its total assets. 
+Private Enterprises  refer to profit-making economic 
+units invested and established by natural persons, or controlled 
+by natural persons, using employed labour. Included in this 
+category are private sole-proprietorship enterprise, private 
+partnership enterprise, private limited liability companies, 
+private limited-liability company by shares and individual 
+sole-proprietorship enterprise registered in accordance with the 
+Company Law, the Law on Partnership Business and the Law 
+on Individual Proprietorship Enterprises. 
+Other 
+Domestic-Invested 
+Enterprises 
+ 
+refer 
+to 
+domestic-invested economic units other than those mentioned 
+above. 
+Joint Venture Enterprises with Hong Kong, Macao 
+and Taiwan  are enterprises jointly established by investors 
+from Hong Kong, Macao and Taiwan with enterprises in the 
+mainland of China in accordance with the former Law of the 
+People’s Republic of China on Sino-foreign Equity Joint 
+Ventures and other relevant laws, where the establishment of 
+the investment and the sharing of profits, taking risks and loss 
+are stipulated in joint venture contracts. 
+Cooperative Enterprises with Hong Kong, Macao and 
+Taiwan  established by investors from Hong Kong, Macao 
+and Taiwan with enterprises in the mainland of China in 
+accordance with the former Law of the People’s Republic of 
+China on Sino-foreign Contractual Joint Venture and other 
+relevant laws, where the investment or provision of facilities 
+and the sharing of profits and risks are stipulated under 
+cooperative contracts. 
+Sole-proprietorship Enterprises with Investment from 
+Hong Kong, Macao and Taiwan  refer to enterprises 
+established in the mainland of China with exclusive investment 
+from investors from Hong Kong, Macao and Taiwan in 
+accordance with the former Law of the People’s Republic of 
+China on Enterprises with Foreign Investment and other 
+relevant laws. 
+Share-holding Corporations Ltd. with Investment 
+from Hong Kong, Macao and Taiwan refer to share-holding 
+corporations Ltd. established with the approval from the 
+Ministry of Commerce（the former Ministry of Foreign Trade 
+and Economic Relations）
+ in line with relevant state regulations, 
+where the share of investment from Hong Kong, Macao or 
+Taiwan businessmen exceeds 25% of the total registered capital 
+of the corporation. In case the share of investment from Hong 
+Kong, Macao or Taiwan is less than 25% of the total registered 
+capital, the enterprise is to be classified as domestic-invested 
+share-holding corporation Ltd.  
+Other Enterprises with Funds From Hong Kong, 
+Macao and Taiwan refer to partnership enterprises with 
+investments from Hong Kong, Macao and Taiwan established 
+within the territory of China in accordance with former 
+Administrative Measures on the Establishment of Partnership 
+Enterprises in China by Foreign Enterprises or Foreign 
+Individuals and Regulations for the Administration of the 
+Registration of Foreign-invested Partnership Enterprises. 
+Joint Venture Enterprises with Foreign Investment   
+refer to enterprises jointly established by foreign enterprises or 
+foreigners with enterprises in the mainland of China in 
+accordance with the former Law of the People’s Republic of 
+China on Sino-foreign Equity Joint Ventures and other relevant 
+laws, where the sharing of investment, profits and risks and 
+loss are stipulated in contracts. 
+Cooperative Enterprises with Foreign Investment  
+refer to enterprises jointly established by foreign enterprises or 
+foreigners with enterprises in the mainland of China in 
+accordance with the former Law of the People’s Republic of 
+China on Sino-foreign Contractual Joint Venture and other 
+relevant laws, where the investment or provision of facilities 
+and the sharing of profits and taking risks and loss are 
+stipulated in cooperative contracts. 
+Sole-proprietorship 
+Enterprises 
+with 
+Foreign 
+Investment   refer to enterprises established in the mainland 
+of China with exclusive investment from foreign investors in 
+accordance with the former Law of the People’s Republic of 
+China on Enterprises with Foreign Investment and other 
+relevant laws. 
+Share-holding 
+Corporations 
+Ltd. 
+with 
+Foreign 
+Investment refer to share-holding corporations Ltd. established 
+with the approval from the Ministry of Commerce （the former 
+Ministry of Foreign Trade and Economic Relations） in line 
+with relevant state regulations, where the share of investment 
+from foreign investors exceeds 25% of the total registered 
+capital of the corporation. In case the share of foreign 
+investment is less than 25% of the total registered capital, the 
+enterprise is to be classified as domestic-invested share-holding 
+corporation Ltd.  
+Other Enterprises with Foreign Funds refer to 
+partnership enterprises established within the territory of China 
+in accordance with former Administrative Measures on the 
+Establishment of Partnership Enterprises in China by Foreign 
+Enterprises or Foreign Individuals and Regulations for the 
+Administration of the Registration of Foreign-invested 
+Partnership Enterprises. 
+ 
